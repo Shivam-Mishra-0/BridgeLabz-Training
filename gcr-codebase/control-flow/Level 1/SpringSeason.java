@@ -16,9 +16,9 @@ public class SpringSeason
 		//Checking the Spring Season using (if-else) loop.
 		boolean isSpringSeason = 
 		(month == 3 && day >= 20 && day <= 31 ) ||
-		(month == 4 && day >= 20 && day <= 31 ) ||
-		(month == 5 && day >= 20 && day <= 31 ) ||
-		(month == 6 && day >= 20 && day <= 31 );
+		(month == 4 && day >= 1 && day <= 31 ) ||
+		(month == 5 && day >= 1 && day <= 31 ) ||
+		(month == 6 && day >= 1 && day <= 20 );
 
 		//Print month and day of Spring Season.
 		if ( isSpringSeason )
