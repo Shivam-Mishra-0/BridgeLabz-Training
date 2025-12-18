@@ -13,7 +13,7 @@ public class EmployeesBonus
 		salary = input.nextInt();
 		System.out.println("Enter the year :");
 		year = input.nextInt();
-		//Find bonus of an employee using salary and year.
+		//Find bonus of an employee using salary and year
 		if ( year > 5 )
 		{	bonus = salary * 0.05;
 		}		
