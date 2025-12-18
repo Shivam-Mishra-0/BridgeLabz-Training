@@ -1,4 +1,4 @@
-//Creating a class name with SumOfNumbersTrue indicating to purpose is to count down the number for a rocket launch.
+//Creating a class name with SumOfNumbersTrue indicating to purpose is to find the sum of numbers untill the user enter 0.
 import java.util.Scanner;
 public class SumOfNumbersTrue
 {	public static void main(String args[])
