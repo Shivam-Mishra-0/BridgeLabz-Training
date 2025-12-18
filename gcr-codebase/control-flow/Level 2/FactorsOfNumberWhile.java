@@ -1,4 +1,4 @@
-//Creating a class name with FactorsOfNumberWhile indicating to purpose is to check the number is positive and mulitple of 3, 5 or both.
+//Creating a class name with FactorsOfNumberWhile indicating to purpose is to check the factor of a number.
 import java.util.Scanner;
 public class FactorsOfNumberWhile
 {	public static void main(String args[])
