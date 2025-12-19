@@ -1,4 +1,4 @@
-//Creating a class name with EmployeesBonus indicating to purpose is to print Fizz, Buzz and FizzBuzz.
+//Creating a class name with EmployeesBonus indicating to purpose is to print Employees data using an array.
 import java.util.Scanner;
 public class EmployeesBonus
 {	public static void main(String args[])
