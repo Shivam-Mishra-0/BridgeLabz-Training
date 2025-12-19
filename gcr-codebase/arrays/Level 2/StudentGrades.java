@@ -1,4 +1,4 @@
-//Creating a class name with StudentGrades indicating to purpose is to find the BMI and display the height, weight, BMI and status of each individual using multi-dimensional array.
+//Creating a class name with StudentGrades indicating to purpose is to find the grade of a student using multidimensional array.
 import java.util.Scanner;
 public class StudentGrades
 {	public static void main(String args[])
