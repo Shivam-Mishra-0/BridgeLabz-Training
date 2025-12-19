@@ -2,7 +2,7 @@
 import java.util.Scanner;
 public class DigitNumbers
 {	public static void main(String args[])
-	{	int maxDigit = 10;
+	{	int maximumDigit = 10;
 		int index = 0;
 		int lastDigit;
 		int largest = 0;
@@ -11,10 +11,10 @@ public class DigitNumbers
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter a number : "); 
 		long number = input.nextLong();
-		int[] digits = new int[maxDigit];
+		int[] digits = new int[maximumDigit];
 		long tempNumber = Math.abs(number);
 		while (tempNumber != 0)
-		{	if (index == maxDigit) 
+		{	if (index == maximumDigit) 
                 	{	break;
             		}
 			lastDigit = ( int ) ( tempNumber % 10 ) ;
