@@ -1,4 +1,4 @@
-//Creating a class name with BodyMassIndex indicating to purpose is to find the BMI and display the height, weight, BMI and status of each individual.
+//Creating a class name with BodyMassIndex indicating to purpose is to find the BMI and display the height, weight, BMI and status of each individual
 import java.util.Scanner;
 public class BodyMassIndex
 {	public static void main(String args[])
