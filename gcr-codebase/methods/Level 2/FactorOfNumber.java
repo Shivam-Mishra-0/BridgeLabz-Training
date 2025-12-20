@@ -11,16 +11,16 @@ class FactorOfNumber {
 		countFactor++;
 	}
 	
-	int[] arr = new int[countFactor];
+	int[] factors = new int[countFactor];
 	
 	int index = 0;
 	for (int i =1 ;i <= number ;i++)
 	{
 	   
 	    if( number % i == 0 )
-	        arr[index++] = i;
+	        factors[index++] = i;
 	}
-     	return arr;
+     	return factors;
     }
 
 
