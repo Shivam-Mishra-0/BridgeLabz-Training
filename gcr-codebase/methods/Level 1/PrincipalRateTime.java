@@ -1,7 +1,8 @@
 //Creating a class name with PrincipalRateTime indicating to purpose is to calculate Simple  Interest.
 import java.util.Scanner;
 public class PrincipalRateTime
-{	public static double calculateSimpleInterest(double principal, double rate, double time)
+{	//Created a method with name calculateSimpleInterest.
+	public static double calculateSimpleInterest(double principal, double rate, double time)
 	{	double simpleInterest = ( principal * rate * time ) / 100;
 		return simpleInterest;
 	}
@@ -16,8 +17,9 @@ public class PrincipalRateTime
         	rate = input.nextDouble();
 		System.out.println("Enter a Time : "); 
         	time = input.nextDouble();
+		//Calling the calculateSimpleInterest method in the PrincipalRateTime class.
         	simpleInterest = PrincipalRateTime.calculateSimpleInterest(principal, rate, time);
-		
+		//Print SimpleInterest.
 		System.out.println( "The Simple Interest is " + simpleInterest + " for Principal " + principal + ", Rate of Interest " + rate + " and Time " + time + "." );
 		input.close();
 	}
