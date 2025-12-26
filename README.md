@@ -1,25 +1,26 @@
 # BridgeLabz-Training
+### 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
-## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
+---
 
 ### 🗓 Day 1 – Git & GitHub Setup  
-**(Date: 15-Dec-2025)**
+**(Date: 16-Dec-2025)**
 
 - Installed and configured Git.
 - Set up GitHub repository.
 ```
 BridgeLabz-Training/
 │── core-java-practice/
-│ 	│── gcr-codebase/
-│ 	│ 	│── arrays/
-│ 	│ 	│── control-flow/
-│ 	│ 	│── extras/
-│ 	│ 	│── methods/
-│ 	│ 	│── programming-elements/
-│ 	│ 	│── programming-requisites/
-│ 	│ 	│── strings/
-│ 	│── leet-code-codebase/
-│ 	│── scenario-based-codebase/
+│ │── gcr-codebase/
+│ │ │── arrays/
+│ │ │── control-flow/
+│ │ │── extras/
+│ │ │── methods/
+│ │ │── programming-elements/
+│ │ │── programming-prerequisites/
+│ │ │── strings/
+│ │── leet-code-codebase/
+│ │── scenario-based-codebase/
 │── README.md
 ```
 - Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
@@ -28,7 +29,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 2 – Git Practice & Basic Java Programs  
-**(Date: 16-Dec-2025)**
+**(Date: 17-Dec-2025)**
 
 - Practiced Git workflow to understand commits and version control.
 - Solved very basic Java programs to understand syntax and structure.
@@ -40,17 +41,14 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 3 – Programming Elements in Java  
-**(Date: 17-Dec-2025)**
+**(Date: 18-Dec-2025)**
 
-- Studied core programming elements:
-  - Java comments
-  - Basic data types
-  - Variable declaration and usage
-  - Arithmetic operators and operator precedence
-  - Type conversion
-  - Taking user input using `Scanner`
-- Solved practice programs based on the above concepts.
-- Committed and pushed all solutions to the repository.
+- Studied Java programming elements:
+  - Variables and data types
+  - Operators
+  - User input and output
+- Solved practice problems based on programming elements.
+- Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
 👉 [Day 3 – Programming Elements](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
@@ -58,7 +56,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 4 – Control Flow & Logical Constructs  
-**(Date: 18-Dec-2025)**
+**(Date: 19-Dec-2025)**
 
 - Studied logical constructs in Java:
   - if, if-else
@@ -70,8 +68,8 @@ BridgeLabz-Training/
   - do-while loop
 - Used `break` and `continue` statements.
 - Solved logical problems such as:
-  - Factorial calculation
-  - Sum of Natural numbers
+  - Factorial
+  - Prime number check
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
@@ -80,16 +78,15 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 5 – Arrays & Basic Problem Solving  
-**(Date: 19-Dec-2025)**
+**(Date: 20-Dec-2025)**
 
 - Studied arrays in Java:
   - Single-dimensional arrays
   - Multi-dimensional arrays
 - Practiced array traversal and operations.
 - Solved problems related to:
+  - Finding missing elements
   - Basic array-based logic
-  - Digit frequency calculation
-  - Finding mean height
 - Strengthened logical thinking using array problems.
 - Committed and pushed solutions to the repository.
 
@@ -97,64 +94,68 @@ BridgeLabz-Training/
 👉 [Day 5 – Arrays](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
-  
- ### 🗓 Day 6 – Java Methods
- **(Date: 20-Dec-2025)**
-  
- - Studied Java methods:
-   - Method declaration
-   - Method calling
-   - Parameter passing
- - Practiced reusable logic using methods.
- - Implemented programs for reusable methods.
- - Committed and pushed solutions to the repository.
-  
-🔗 **Code Link:**  
-👉 [Day 6 – Methods](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
-  
----
 
-### 🗓 Day 7 – Java Strings
+### 🗓 Day 6 – Strings & Methods  
 **(Date: 22-Dec-2025)**
 
 - Studied String concepts:
- - String creation
- - String methods
- - Character processing
+  - String creation
+  - String methods
+  - Character processing
 - Implemented programs for string manipulation.
+- Studied Java methods:
+  - Method declaration
+  - Method calling
+  - Parameter passing
+- Practiced reusable logic using methods.
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 7 – Strings](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+👉 [Day 6 – Methods](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+
+👉 [Day 6 – Strings](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
 ---
 
-## 📅 Week 2: Extra programming Fundamentals & practice
-  
-### 🗓 Day 8 – Extra Built-in Functions & String Practice  
+### 📅 Week 2: Core Java Practice, Problem Solving & OOPS
+
+---
+
+### 🗓 Day 7 – Built-in Functions & Extra Practice  
 **(Date: 23-Dec-2025)**
-  
-- Practiced Java built-in classes such as `Math` and `Random`.
-- Worked with date and time handling using Java 8+ date-time APIs:
-  - `LocalDate`
-  - `LocalTime`
-  - `LocalDateTime`
-  - `ZonedDateTime`
-  - `DateTimeFormatter`
-- Practiced String concepts including:
-  - Creating strings and taking string input
-  - Escape sequences (`\`)
-  - String arrays
-  - Strings as method parameters
-  - Built-in `String` class methods
-  - ASCII character codes
-- Studied Java exception handling concepts:
-  - Java exception hierarchy
-  - Checked and unchecked exceptions
-  - `java.lang.RuntimeException`
-- Implemented utility programs such as a temperature converter.
-- Organized programs into appropriate folders.
+
+- Practiced Java built-in functions.
+- Implemented utility programs such as:
+  - Temperature Converter
+- Improved understanding of:
+  - Input handling
+  - Type conversion
+- Organized programs into proper folders.
 - Committed and pushed all changes successfully.
-  
+
 🔗 **Code Link:**  
-👉 [Day 8 – Extras](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+👉 [Day 7 – Extras](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+---
+
+### 🗓 Day 8 – Scenario-Based Problems & LeetCode-Based Questions
+**(Date: 24-Dec-2025)**
+
+- Solved real-world, scenario-based Java problems.
+- Practiced LeetCode-based questions to strengthen logical thinking.
+- Implemented programs such as:
+  - Coffee Counter Billing System
+  - BMI Fitness Tracker
+- Applied Core Java concepts including:
+  - Variables and primitive data types
+  -  Conditional logic (if-else, switch)
+  -  Loops (while)
+- Followed clean coding practices with proper naming and comments.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 8 – Scenario-Based Problems ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%201)
+
+👉 [Day 8 – leet-code-codebase Problems ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/day%201)
+
+---
