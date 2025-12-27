@@ -36,9 +36,6 @@ BridgeLabz-Training/
 - Solved very basic Java programs to understand syntax and structure.
 - Practiced adding, committing, and pushing Java files to GitHub.
 
-🔗 **Code Link:**  
-👉 [Day 2 – Basic Java Programs](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program%20Prerequisites)
-
 ---
 
 ### 🗓 Day 3 – Programming Elements in Java  
@@ -50,9 +47,6 @@ BridgeLabz-Training/
   - User input and output
 - Solved practice problems based on programming elements.
 - Committed and pushed solutions to the repository.
-
-🔗 **Code Link:**  
-👉 [Day 3 – Programming Elements](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---
 
@@ -73,9 +67,6 @@ BridgeLabz-Training/
   - Prime number check
 - Committed and pushed solutions to the repository.
 
-🔗 **Code Link:**  
-👉 [Day 4 – Control Flow](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
-
 ---
 
 ### 🗓 Day 5 – Arrays & Basic Problem Solving  
@@ -90,9 +81,6 @@ BridgeLabz-Training/
   - Basic array-based logic
 - Strengthened logical thinking using array problems.
 - Committed and pushed solutions to the repository.
-
-🔗 **Code Link:**  
-👉 [Day 5 – Arrays](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
@@ -110,11 +98,6 @@ BridgeLabz-Training/
   - Parameter passing
 - Practiced reusable logic using methods.
 - Committed and pushed solutions to the repository.
-
-🔗 **Code Link:**  
-👉 [Day 6 – Methods](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
-
-👉 [Day 6 – Strings](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
 ---
 
@@ -134,9 +117,6 @@ BridgeLabz-Training/
 - Organized programs into proper folders.
 - Committed and pushed all changes successfully.
 
-🔗 **Code Link:**  
-👉 [Day 7 – Extras](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
-
 ---
 
 ### 🗓 Day 8 – Scenario-Based Problems & LeetCode-Based Questions
@@ -154,11 +134,6 @@ BridgeLabz-Training/
 - Followed clean coding practices with proper naming and comments.
 - Committed and pushed all changes successfully.
 
-🔗 **Code Link:**  
-👉 [Day 8 – Scenario-Based Problems ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%201)
-
-👉 [Day 8 – leet-code-codebase Problems ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/day%201)
-
 ---
 
 ### 🗓 Day 9 – OOPS Concepts & Eclipse IDE Setup
@@ -174,5 +149,3 @@ BridgeLabz-Training/
 - Organized OOPS programs into a separate branch.
 - Committed and pushed all changes successfully.
 
-🔗 **Code Link:**  
-👉 [Day 9 – OOPS Concepts ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept)
