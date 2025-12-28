@@ -149,3 +149,17 @@ BridgeLabz-Training/
 - Organized OOPS programs into a separate branch.
 - Committed and pushed all changes successfully.
 
+---
+
+### 🗓 Day 10 – Constructors
+**(Date: 27-Dec-2025)**
+
+- Learned about Constructors in Java.
+- Implemented different types of constructors:
+  - Default Constructor
+  - Parameterized Constructor
+  - Constructor Overloading
+- Applied constructor concepts in practical scenarios.
+
+---
+
