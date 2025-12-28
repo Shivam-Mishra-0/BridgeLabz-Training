@@ -159,3 +159,30 @@ BridgeLabz-Training/
 👉 [Day 8 – leet-code-codebase Problems ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/day%201)
 
 ---
+
+### 🗓 Day 9 – Scenario-Based Problems & Leetcode-Based Problems 
+**(Date: 26-Dec-2025)**
+
+- Continued working on real-world scenario-based challenges and leetcode-based problems.
+- Applied programming concepts to practical business logic problems.
+- Completed and pushed additional scenario-based solutions to GitHub.
+
+🔗 **Code Link:**  
+👉 [Day 9 – leet-code-codebase Problems ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/day%202)
+
+👉 [Day 9 – Scenario-Based Problems ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%202)
+
+---
+
+### 🗓 Day 10 – Leetcode-Based Problems 
+**(Date: 27-Dec-2025)**
+
+- Continued working on real-world leetcode-based problems.
+- Applied programming concepts to practical business logic problems.
+- Completed and pushed additional scenario-based solutions to GitHub.
+
+🔗 **Code Link:**  
+👉 [Day 10 – leet-code-codebase Problems ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/day%203)
+
+---
+
