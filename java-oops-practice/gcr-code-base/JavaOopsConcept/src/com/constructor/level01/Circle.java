@@ -20,7 +20,7 @@ public class Circle
 		double radius = input.nextDouble();
 		Circle circle2 = new Circle(radius);
 		circle2.displayRadiusOfCircle();
-		
+		input.close();
 	}
 
 }
