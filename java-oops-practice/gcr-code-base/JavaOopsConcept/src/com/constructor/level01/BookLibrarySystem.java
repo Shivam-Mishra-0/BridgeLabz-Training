@@ -3,23 +3,19 @@ package com.constructor.level01;
 public class BookLibrarySystem {
 
 	public static void main(String[] args) {
-		public static void main(String[] args) {
-
-		     EBook ebook = new EBook(
-		             "978-0135166307",
+		EBook ebook = new EBook("978-0135166307",
 		             "Core Java Programming",
 		             "James Gosling",
-		             4.8
-		     );
+		             4.8);
 
-		     ebook.displayEBookDetails();
+		ebook.displayEBookDetails();
 
-		     System.out.println("\nUpdating Author Name...\n");
+		System.out.println("\nUpdating Author Name...\n");
 
 		     // Modifying private variable using setter
-		     ebook.setAuthor("Oracle Java Team");
+		ebook.setAuthor("Oracle Java Team");
 
-		     ebook.displayEBookDetails();
+		ebook.displayEBookDetails();
 		
 	}
 
