@@ -163,3 +163,17 @@ BridgeLabz-Training/
 
 ---
 
+### 🗓 Day 11 – Core Java Keywords & Scenario-Based Problems
+**(Date: 29-Dec-2025)**
+
+- Studied Core Java keywords:
+  - this keyword
+  - static keyword.
+  - final keyword
+- Practiced scenario-based Core Java problems:
+- Applied concepts using:
+  - for, for-each, while, do-while loops
+  -  if-else and switch-case statements
+- Improved logic building through real-world problem scenarios.
+
+---
