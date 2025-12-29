@@ -14,7 +14,7 @@
 - Practiced with real-world examples.
 
 **Code Link**
-👉 [Day 10 - Object-Oriented Programming](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/classandobject)
+👉 [Day 9 - Object-Oriented Programming](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/classandobject)
 
 ---
 
@@ -29,6 +29,24 @@
 - Applied constructor concepts in practical scenarios.
 
 **Code Link**
-👉 [Day 11 - Constructors](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/constructor/level01)
+👉 [Day 10 - Constructors](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/constructor/level01)
+
+---
+
+### Day 11 – Core Java InBuiltFunctions & Scenario-Based Problems
+**(Date: 29-Dec-2025)**
+
+- Studied Core Java keywords:
+  - this keyword
+  - static keyword.
+  - final keyword
+- Practiced scenario-based Core Java problems:
+- Applied concepts using:
+  - for, for-each, while, do-while loops
+  - if-else and switch-case statements
+- Improved logic building through real-world problem scenarios.
+- 
+**Code Link**
+👉 [Day 11 - Core Java InBuiltFunctions](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/inbuiltfunctions)
 
 ---
