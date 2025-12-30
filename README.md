@@ -50,3 +50,29 @@
 👉 [Day 11 - Core Java InBuiltFunctions](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/inbuiltfunctions)
 
 ---
+
+### 🗓 Day 12 – Object Relationships & Class vs Object  
+**(Date: 30-Dec-2025)**  
+
+Learned core concepts of **Object Modeling** and **object communication** in Java.
+
+#### Topics Covered:
+- Classes vs Objects (definition, purpose, memory allocation)
+- Object relationships:
+  - Aggregation
+  - Association
+  - Composition
+- UML basics:
+  - Class Diagrams
+  - Object Diagrams
+  - Sequence Diagrams
+
+#### Problems Solved: (Examples):
+- 📚 **Library and Books (Aggregation)**  
+  Library contains multiple books, while books exist independently.
+
+- 🏦 **Bank and Account Holders (Association)**  
+  Modeled customer–bank relationships with object communication.
+
+🔗 **Code Link:**  
+👉 [Day 12 – Object Modeling](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/objectmodeling)
