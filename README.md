@@ -186,3 +186,32 @@ BridgeLabz-Training/
 
 ---
 
+### 🗓 Day 11 – LeetCode problems  
+**(Date: 28-Dec-2025)**
+
+- Pushed LeetCode problems.
+- 5 problems of strings.
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [LeetCode](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/day%201)
+
+### 🗓 Day 12 – LeetCode problems  
+**(Date: 30-Dec-2025)**
+
+- Solved LeetCode problems.
+- 5 array problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [LeetCode](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
+### 🗓 Day 13 – LeetCode problems  
+**(Date: 31-Dec-2025)**
+
+- Solved LeetCode problems.
+- 5 array problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [LeetCode](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
