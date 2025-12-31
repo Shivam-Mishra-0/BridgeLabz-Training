@@ -1,11 +1,9 @@
 # BridgeLabz-Training
+# 📅 Week 1: Git, GitHub & Java Programming Fundamentals
+## 📘 Section A : Training Learning Progress
 
-### 📅 Week 1: Git, GitHub & Java Programming Fundamentals
-
----
-
-### 🗓 Day 1 – Git & GitHub Setup  
-**(Date: 16-Dec-2025)**
+### 🗓 Day 1 – Git & GitHub Setup 
+**(Date: 15-Dec-2025)**
 
 - Installed and configured Git.
 - Set up GitHub repository.
@@ -18,7 +16,7 @@ BridgeLabz-Training/
 │ │ │── extras/
 │ │ │── methods/
 │ │ │── programming-elements/
-│ │ │── programming-prerequisites/
+│ │ │── programming-requisites/
 │ │ │── strings/
 │ │── leet-code-codebase/
 │ │── scenario-based-codebase/
@@ -27,10 +25,8 @@ BridgeLabz-Training/
 - Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
 - Successfully pushed files to the remote repository.
 
----
-
 ### 🗓 Day 2 – Git Practice & Basic Java Programs  
-**(Date: 17-Dec-2025)**
+**(Date: 16-Dec-2025)**
 
 - Practiced Git workflow to understand commits and version control.
 - Solved very basic Java programs to understand syntax and structure.
@@ -39,7 +35,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 3 – Programming Elements in Java  
-**(Date: 18-Dec-2025)**
+**(Date: 17-Dec-2025)**
 
 - Studied Java programming elements:
   - Variables and data types
@@ -51,7 +47,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 4 – Control Flow & Logical Constructs  
-**(Date: 19-Dec-2025)**
+**(Date: 18-Dec-2025)**
 
 - Studied logical constructs in Java:
   - if, if-else
@@ -84,14 +80,9 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 6 – Strings & Methods  
+### 🗓 Day 6 – Java Methods  
 **(Date: 22-Dec-2025)**
 
-- Studied String concepts:
-  - String creation
-  - String methods
-  - Character processing
-- Implemented programs for string manipulation.
 - Studied Java methods:
   - Method declaration
   - Method calling
@@ -101,105 +92,161 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Week 2: Core Java Practice, Problem Solving & OOPS
+### 🗓 Day 7 – String manipulation 
+**(Date: 22-Dec-2025)**
+
+- Studied String concepts:
+  - String creation
+  - String methods
+  - Character processing
+- Implemented programs for string manipulation.
+- Committed and pushed solutions to the repository.
 
 ---
 
-### 🗓 Day 7 – Built-in Functions & Extra Practice  
+### 🗓 Day 8 – Built-in Functions & Extra Practice  
 **(Date: 23-Dec-2025)**
 
-- Practiced Java built-in functions.
+- Practised Java built-in functions.
 - Implemented utility programs such as:
   - Temperature Converter
 - Improved understanding of:
   - Input handling
   - Type conversion
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+---
+
+## 🧩 Section B : Scenario-Based Problems Progress
+
+### 🗓 Day 9 – Scenario-Based problems  
+**(Date: 24-Dec-2025)**
+
+- Solved scenario-based problems.
+- 2 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+
+### 🗓 Day 11 – Scenario-Based problems  
+**(Date: 26-Dec-2025)**
+
+- Solved scenario-based problems.
+- 3 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+
+### 🗓 Day 14 – Scenario-Based problems  
+**(Date: 29-Dec-2025)**
+
+- Solved scenario-based problems.
+- 5 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+
+### 🗓 Day 15 – Scenario-Based problems 
+**(Date: 30-Dec-2025)**
+
+- Solved scenario-based problems.
+- 5 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+---
+
+## 🧮 Section C : LeetCode-based Problems Progress
+
+### 🗓 Day 9 – LeetCode problems  
+**(Date: 24-Dec-2025)**
+
+- Solved LeetCode problems.
+- 5 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+
+### 🗓 Day 13 – LeetCode problems  
+**(Date: 28-Dec-2025)**
+
+- Pushed LeetCode problems solved over four days.
+- 25 problems of four days.
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+
+### 🗓 Day 15 – LeetCode problems  
+**(Date: 30-Dec-2025)**
+
+- Solved LeetCode problems.
+- 5 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+---
+---
+
+# 📅 Week 2: Java Programming Fundamentals and Object oriented concepts
+## 📘 Section A : Training Learning Progress
+### 🗓 Day 1 – Object and Classes  
+**(Date: 26-Dec-2025)**
+
+- Learned the working of classes and objects in java
+- Solved Object and Class based problems, level 1 and 2.
 - Organized programs into proper folders.
 - Committed and pushed all changes successfully.
 
 ---
 
-### 🗓 Day 8 – Scenario-Based Problems & LeetCode-Based Questions
-**(Date: 24-Dec-2025)**
-
-- Solved real-world, scenario-based Java problems.
-- Practiced LeetCode-based questions to strengthen logical thinking.
-- Implemented programs such as:
-  - Coffee Counter Billing System
-  - BMI Fitness Tracker
-- Applied Core Java concepts including:
-  - Variables and primitive data types
-  -  Conditional logic (if-else, switch)
-  -  Loops (while)
-- Followed clean coding practices with proper naming and comments.
-- Committed and pushed all changes successfully.
-
----
-
-### 🗓 Day 9 – OOPS Concepts & Eclipse IDE Setup
-**(Date: 26-Dec-2025)**
-
-- Created a new branch named java-oops-practice.
-- Set up Eclipse IDE for Java Developers. 
-- Practiced Object-Oriented Programming concepts.
-- Implemented OOPS-based Java programs using:
-  - Classes and Objects
-  - Constructors
-  - Methods
-- Organized OOPS programs into a separate branch.
-- Committed and pushed all changes successfully.
-
----
-
-### 🗓 Day 10 – Constructors
+### 🗓 Day 2 – Constructors  
 **(Date: 27-Dec-2025)**
 
-- Learned about Constructors in Java.
-- Implemented different types of constructors:
-  - Default Constructor
-  - Parameterized Constructor
-  - Constructor Overloading
-- Applied constructor concepts in practical scenarios.
+- Learned the working of Constructors in java
+- (Parameterised, Non-parameterised, and Copy constructor)
+- Solved Constructor based problems from level 1.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
 
 ---
 
-### 🗓 Day 11 – Core Java Keywords & Scenario-Based Problems
+### 🗓 Day 3 – this, final & static in Java
 **(Date: 29-Dec-2025)**
 
-- Studied Core Java keywords:
-  - this keyword
-  - static keyword.
-  - final keyword
-- Practiced scenario-based Core Java problems:
-- Applied concepts using:
-  - for, for-each, while, do-while loops
-  -  if-else and switch-case statements
-- Improved logic building through real-world problem scenarios.
+- Studied Java keywords:
+   - this, static, and final
+- Understood the purpose and usage of each keyword.
+- Studied access modifiers in Java.
+- Learned instance vs class (static) variables and methods.
+- Committed and pushed all work.
 
 ---
 
-### 🗓 Day 12 – Object Modeling & Scenario-Based Programs  
-**(Date: 30-Dec-2025)** 
+### 🗓 Day 4 – Object Modeling & Real-World Design
+**(Date: 30-Dec-2025)**
 
-#### 🔹 Java OOPS Practice (`java-oops-practice`)
-Learned **Object Modeling** concepts and object communication in Java.
-
-**Topics Covered:**
-- Object Relationships (Aggregation, Association, Composition)
-- Classes vs Objects
-- UML Diagrams:
+- Studied classes and objects and object modeling:
   - Class Diagram
-  - Object Diagram
-  - Sequence Diagram
+  - Object Diagrams
+  - Sequence Diagrams
+- Designed classes in Plain Old Java Object (POJO)
+- Learned object relationships:
+  - Association
+  - Aggregation
+  - Composition
+- Committed and pushed all work.
 
-#### 🔹 Core Java Practice (`core-java-practice`)
-Solved multiple **scenario-based problems** to strengthen control flow and logic building.
+---
+---
 
-**Problems Implemented:**
-- 🌡️ Temperature Logger (arrays, loops, if conditions)
-- 🚆 Train Reservation Queue (switch, while-loop, break)
-- 🏋️ Sandeep’s Fitness Challenge Tracker (for-each, continue)
-- 🎬 Movie Ticket Booking App (switch + if, loops)
-- 📚 Rohan’s Library Reminder App (fine calculation using for-loop)
-
-Focused on clean structure, proper variable naming, and modular logic.
+## 🧩 Section B : Scenario-Based Problems Progress
+---
+## 🧮 Section C : LeetCode-based Problems Progress
