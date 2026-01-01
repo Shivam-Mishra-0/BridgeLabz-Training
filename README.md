@@ -50,6 +50,28 @@
 🔗 **Code Link:** [Object-Modelling](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/objectmodeling)
 
 ---
+
+### 🗓 Day 13 – Java Inheritance and Types
+**(Date: 31-Dec-2025)**
+- Studied inheritance and its types:
+  - Single level inheritance
+  - Multilevel inheritance
+  - Hierarchical inheritance
+  - Hybrid inheritance
+- Method Overriding and `@Override`
+- Constructor inheritance `super()` 
+- Polymorphism and Inheritance
+- Access Modifiers and Inheritance
+  - `public`
+  - `protected`
+  - Default (no modifier)
+  - `private`
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Inheritance and Types](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/inheritance)
+
+---
+
 ## 🧩 Section B: Scenario-Based Problems Progress
 ---
 ## 🧮 Section C: LeetCode-based Problems Progress
