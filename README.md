@@ -215,3 +215,13 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:** [LeetCode](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/array)
+
+---
+
+### 🗓 Day 14 – LeetCode problems  
+**(Date: 01-Jan-2026)**
+
+- Solved LeetCode problems.
+- 5 array problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
