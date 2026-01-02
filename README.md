@@ -7,21 +7,35 @@
 
 - Installed and configured Git.
 - Set up GitHub repository.
+
 ```
 BridgeLabz-Training/
-│── core-java-practice/
-│ │── gcr-codebase/
-│ │ │── arrays/
-│ │ │── control-flow/
-│ │ │── extras/
-│ │ │── methods/
-│ │ │── programming-elements/
-│ │ │── programming-requisites/
-│ │ │── strings/
-│ │── leet-code-codebase/
-│ │── scenario-based-codebase/
-│── README.md
+│
+├── 📁 core-java-practice/
+│   ├── 📁 gcr-codebase/
+│   │   ├── 📁 prerequisites/          # Basic Java programs 
+│   │   ├── 📁 programming-elements/   # Java programming elements 
+│   │   ├── 📁 control-flows/          # If-else, loops, switch 
+│   │   ├── 📁 arrays/                 # Array operations
+│   │   ├── 📁 methods/                # Method practices
+│   │   ├── 📁 strings/                # String manipulation 
+│   │   └── 📁 Extras/                 # Built-in methods
+│   ├── 📁 leet-code-codebase/         # LeetCode solutions
+│   └── 📁 scenario-based-codebase/    # Real-world problems
+│
+└── 📁 java-oops-practice/
+    └── 📁 gcr-codebase/
+        └── 📁 JavaOopsConcepts/
+            └── 📁 src/
+                └── 📁 com/
+                    ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
+                    └── 📁 constructor/       # Constructor, access modifiers
+                    └── 📁 finalandstatic/    # Keywords, instance vs class members
+                    └── 📁 objectmodeling/    # Diagrams, relationships, communication
+                    └── 📁 inheritance/       # Types, method overriding, & access modifiers
+                    └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
 ```
+
 - Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
 - Successfully pushed files to the remote repository.
 
@@ -242,6 +256,37 @@ BridgeLabz-Training/
   - Association
   - Aggregation
   - Composition
+- Committed and pushed all work.
+
+---
+
+### 🗓 Day 5 – Inheritance & Types  
+**(Date: 31-Dec-2025)**
+
+Learned Inheritance in Java and its role in OOPS.
+
+**Topics Covered:**
+- Practiced Single, Multilevel, Hierarchical & Hybrid Inheritance
+- Implemented method overriding, super() constructor calls, and polymorphism
+- Understood access modifiers and their behavior in inheritance
+- Modeled real-world hierarchies (Animal, Employee, Vehicle, Bank, Restaurant)
+- Committed and pushed all work.
+
+---
+
+### 🗓 Day 6 – Encapsulation, Polymorphism, Interface and Abstract Class  
+**(Date: 01-Jan-2026)**
+
+Learned and practiced Encapsulation along with scenario-based OOPS problem solving.
+
+**Topics Covered:**
+- Data hiding using private fields
+- Controlled access via getters & setters
+- Validation logic inside methods
+- Securing sensitive data (e.g., account balance, user details)
+- Improved code safety, flexibility, and maintainability
+- Example Implemented:
+   - BankAccount with validated deposit & withdrawal operations
 - Committed and pushed all work.
 
 ---
