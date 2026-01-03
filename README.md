@@ -111,5 +111,13 @@ BridgeLabz-Training/
 
 
 ## 🧩 Section B: Scenario-Based Problems Progress
+
+### 🗓 Day 15 – Scenario-Based Practice  
+**(Date: 02-Jan-2026)**
+- Solved **5** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com)
 ---
 ## 🧮 Section C: LeetCode-based Problems Progress
