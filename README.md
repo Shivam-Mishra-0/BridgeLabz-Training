@@ -17,8 +17,10 @@ BridgeLabz-Training/
 │   │── scenario-based-codebase/
 │   │── .gitignore
 │── README.md
+
 ```
 ---
+
 ## 📘 Section A: Training Learning Progress
 ### 🗓 Day 1 – Object and Classes  
 **(Date: 26-Dec-2025)**
@@ -109,6 +111,8 @@ BridgeLabz-Training/
   
 🔗 **Code Link:**  [Encapsulation & Polymorphism](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/encapsulation)
 
+---
+---
 
 ## 🧩 Section B: Scenario-Based Problems Progress
 
@@ -117,7 +121,20 @@ BridgeLabz-Training/
 - Solved **5** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
 - Committed and pushed all solutions.
-- 🔗 **Code Links:**  
+- 🔗 **Code Links:**
+  
 👉 [Scenario Based Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com)
+
 ---
+---
+
 ## 🧮 Section C: LeetCode-based Problems Progress
+
+### 🗓 Day 15 – LeetCode-based Practice  
+**(Date: 02-Jan-2026)**
+- Practiced **3** classes and objects based problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+  
+- 🔗 **Code Links:**  
+👉 [LeetCode Class and Object Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-base)
