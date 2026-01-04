@@ -294,4 +294,61 @@ Learned and practiced Encapsulation along with scenario-based OOPS problem solvi
 
 ## 🧩 Section B : Scenario-Based Problems Progress
 ---
+
+### 🗓 Day 5 – Scenario-Based Practice  
+**(Date: 02-Jan-2026)**
+
+- Solved **5** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+  
+---
+
+### 🗓 Day 6 – Scenario-Based Practice  
+**(Date: 03-Jan-2026)**
+
+- Solved **2** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+
+---
+
 ## 🧮 Section C : LeetCode-based Problems Progress
+
+### 🗓 Day 7 – LeetCode-based Practice  
+**(Date: 04-Jan-2026)**
+
+- Practiced **3** classes and objects based problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+
+---
+---
+
+# 📅 Week 3: Data Structure and Algorithm
+## 📘 Section A : Training Learning Progress
+
+### 🗓 Day 1 – Data Structures Overview
+**(Date: 02-Jan-2026)**  
+
+- Learned fundamentals of **Data Structures**
+- Explored **Linear & Non-Linear Data Structures**
+- Focused on **Linked Lists**:
+  - Singly Linked List
+  - Doubly Linked List
+  - Circular Linked List
+- Understood use cases, advantages, and limitations
+- Implemented basic real-world linked list problems
+
+---
+
+### 🗓 Day 2 – Stacks, Queues & Hashing
+**(Date: 03-Jan-2026)**  
+
+- Stack (LIFO): recursion, undo/redo, parenthesis check
+- Queue (FIFO): BFS, scheduling, task processing
+- Deque / PriorityQueue: optimized & priority-based access
+- HashMap: key–value storage, O(1) average lookup
+- Hashing: bucket mapping, collision handling
+- Practiced: balanced parentheses, BFS-style queues, sliding windows, hash-based lookups
+- Focus: optimized O(n) solutions & clean code
