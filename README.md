@@ -54,7 +54,7 @@ BridgeLabz-Training/
 - Practiced: balanced parentheses, BFS-style queues, sliding windows, hash-based lookups
 - Focus: optimized O(n) solutions & clean code
 
-   🔗 Code Links:
+🔗 Code Links:
 👉 [Day 2-  Stacks, Queues $ Hashing]
 
 ---
