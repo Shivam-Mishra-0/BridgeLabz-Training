@@ -26,7 +26,6 @@ BridgeLabz-Training/
 
 ### 📅 Day 1 – Data Structures Overview
 **(Date: 02-Jan-2026)**  
-**Branch:** `dsa-practice`
 
 - Learned fundamentals of **Data Structures**
 - Explored **Linear & Non-Linear Data Structures**
@@ -43,8 +42,7 @@ BridgeLabz-Training/
 ---
 
 ### 📅 Day 2 – Stacks, Queues & Hashing
-**(Date: 03-Jan-2026)**  
-**Branch:** `dsa-practice`
+**(Date: 05-Jan-2026)**  
 
 - Stack (LIFO): recursion, undo/redo, parenthesis check
 - Queue (FIFO): BFS, scheduling, task processing
@@ -55,6 +53,9 @@ BridgeLabz-Training/
 - Focus: optimized O(n) solutions & clean code
 
 🔗 Code Links:
-👉 [Day 2-  Stacks, Queues $ Hashing]
+👉 [Day 2-  Stacks & Queues ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/stackandqueue)
 
+👉 [Day 2-  Hashing ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/hashmapandhashfunctions)
+
+---
 ---
