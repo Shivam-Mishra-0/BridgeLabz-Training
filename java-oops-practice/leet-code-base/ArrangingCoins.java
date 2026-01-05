@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LC0441_ArrangingCoins {
+public class ArrangingCoins {
 
     // Finds number of complete staircase rows
     public int arrangeCoins(int n) {
