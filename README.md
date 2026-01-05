@@ -313,12 +313,31 @@ Learned and practiced Encapsulation along with scenario-based OOPS problem solvi
 
 ---
 
+### 🗓 Day 7 – Scenario-Based Practice  
+**(Date: 05-Jan-2026)**
+
+- Solved **2** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+
+---
+---
+
 ## 🧮 Section C : LeetCode-based Problems Progress
 
 ### 🗓 Day 7 – LeetCode-based Practice  
 **(Date: 04-Jan-2026)**
 
 - Practiced **3** classes and objects based problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+
+---
+
+### 🗓 Day 8 – LeetCode-based Practice  
+**(Date: 05-Jan-2026)**
+
+- Practiced **8** constructors and final & static based problems.
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
 
@@ -352,3 +371,21 @@ Learned and practiced Encapsulation along with scenario-based OOPS problem solvi
 - Hashing: bucket mapping, collision handling
 - Practiced: balanced parentheses, BFS-style queues, sliding windows, hash-based lookups
 - Focus: optimized O(n) solutions & clean code
+
+---
+
+### 🗓 Day 3 – Sorting Algorithm
+**(Date: 04-Jan-2026)**  
+
+Practiced fundamental **sorting techniques** to organize data efficiently:
+
+- **Bubble Sort** – Adjacent comparison & swapping
+- **Insertion Sort** – Build sorted array incrementally
+- **Selection Sort** – Select minimum & swap
+- **Merge Sort** – Divide & Conquer, stable sorting
+- **Quick Sort** – Pivot-based partitioning
+- **Heap Sort** – Max Heap based sorting
+- **Counting Sort** – Frequency-based non-comparison sort
+
+---
+---
