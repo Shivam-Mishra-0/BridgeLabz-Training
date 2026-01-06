@@ -58,4 +58,19 @@ BridgeLabz-Training/
 👉 [Day 2-  Hashing ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/hashmapandhashfunctions)
 
 ---
+
+### 📅 Day 3 – Sorting 
+**(Date: 06-Jan-2026)**  
+
+- Studied Sorting Algorithms:
+  - Bubble Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+  - Selection Sort
+  - Heap Sort
+  - Counting Sort
+- Understood algorithms and solved problem on each.
+
+---
 ---
