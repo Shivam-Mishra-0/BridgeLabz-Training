@@ -321,6 +321,16 @@ Learned and practiced Encapsulation along with scenario-based OOPS problem solvi
 - Committed and pushed all solutions.
 
 ---
+
+### 🗓 Day 8 – Scenario-Based Practice  
+**(Date: 06-Jan-2026)**
+
+- Solved **1** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- "EduMentor – Personalized Learning Platform"
+- Committed and pushed the solutions
+
+---
 ---
 
 ## 🧮 Section C : LeetCode-based Problems Progress
