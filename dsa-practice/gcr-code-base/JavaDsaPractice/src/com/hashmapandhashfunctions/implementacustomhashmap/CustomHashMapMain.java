@@ -1,7 +1,7 @@
 package com.hashmapandhashfunctions.implementacustomhashmap;
 
 public class CustomHashMapMain {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
 
         CustomHashMap map = new CustomHashMap();
 
