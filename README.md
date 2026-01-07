@@ -171,7 +171,7 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
   
 - 🔗 **Code Links:**  
-👉 [LeetCode Class and Object Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-base)
+👉 [LeetCode Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-base)
 
 ---
 
@@ -183,7 +183,7 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
   
 - 🔗 **Code Links:**  
-👉 [LeetCode Class and Object Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-base)
+👉 [LeetCode Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-base)
 
 ---
 
@@ -195,7 +195,7 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
   
 - 🔗 **Code Links:**  
-👉 [LeetCode Class and Object Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-base)
+👉 [LeetCode Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-base)
 
 ---
 ---
