@@ -1,7 +1,7 @@
 package com.linkedlist.circularlinkedlist.onlineticketreservationsystem;
 
 public class TicketNode {
-    int ticketId;
+    int ticketId; 
     String customerName;
     String movieName;
     String seatNumber;
