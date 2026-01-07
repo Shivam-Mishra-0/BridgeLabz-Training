@@ -24,6 +24,9 @@ BridgeLabz-Training/
 
 ---
 
+## Section A - gcr-code-base
+---
+
 ### 📅 Day 1 – Data Structures Overview & Linked List
 **(Date: 02-Jan-2026)**  
 
@@ -74,6 +77,16 @@ BridgeLabz-Training/
 
 🔗 Code Links:
 👉 [Day 2-  Stacks & Queues ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/sorting)
+
+---
+---
+
+## Section B - Scenario-based-codebase
+
+---
+---
+
+## Section C - Leet-code-base
 
 ---
 ---
