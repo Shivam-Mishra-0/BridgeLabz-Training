@@ -3,7 +3,7 @@ package com.linkedlist.doublylinkedlist.moviemanagementsystem;
 public class MovieManagementSystem {
     public static void main(String[] args) {
 
-        MovieDoublyLinkedList movies = new MovieDoublyLinkedList();
+        MovieDoublyLinkedList movies = new MovieDoublyLinkedList(); 
 
         movies.addAtEnd("Inception", "Christopher Nolan", 2010, 8.8);
         movies.addAtBeginning("Interstellar", "Christopher Nolan", 2014, 8.6);
