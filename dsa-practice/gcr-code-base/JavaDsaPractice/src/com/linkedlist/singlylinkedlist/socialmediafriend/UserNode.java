@@ -2,7 +2,7 @@ package com.linkedlist.singlylinkedlist.socialmediafriend;
 
 public class UserNode {
     int userId;
-    String name;
+    String name; 
     int age;
     FriendNode friends;
     UserNode next;
