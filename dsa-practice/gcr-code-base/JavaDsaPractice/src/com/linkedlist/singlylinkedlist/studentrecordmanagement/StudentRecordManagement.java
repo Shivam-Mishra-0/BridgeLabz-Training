@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class StudentRecordManagement {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        StudentLinkedList list = new StudentLinkedList();
+        StudentLinkedList list = new StudentLinkedList(); 
         int choice;
 
         do {
