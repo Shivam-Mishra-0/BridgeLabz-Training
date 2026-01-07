@@ -150,6 +150,15 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 
 ---
+
+### 🗓 Day 18 – Scenario-Based Practice  
+**(Date: 07-Jan-2026)**
+
+- Solved **5** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+
+---
 ---
 
 ## 🧮 Section C: LeetCode-based Problems Progress
