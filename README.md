@@ -363,7 +363,16 @@ Learned and practiced Encapsulation along with scenario-based OOPS problem solvi
 ### 🗓 Day 8 – LeetCode-based Practice  
 **(Date: 05-Jan-2026)**
 
-- Practiced **8** constructors and final & static based problems.
+- Practiced **7** constructors and final & static based problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+
+---
+
+### 🗓 Day 9 – LeetCode-based Practice  
+**(Date: 07-Jan-2026)**
+
+- Practiced **1** constructors and final & static based problems.
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
 
