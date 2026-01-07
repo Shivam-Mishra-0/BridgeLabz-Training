@@ -1,5 +1,5 @@
 package com.linkedlist.singlylinkedlist.inventorymanagementsystem;
-
+ 
 public class InventoryManagementSystem {
     public static void main(String[] args) {
         InventoryLinkedList inventory = new InventoryLinkedList();
