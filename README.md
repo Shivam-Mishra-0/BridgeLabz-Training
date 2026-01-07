@@ -72,5 +72,8 @@ BridgeLabz-Training/
   - Counting Sort
 - Understood algorithms and solved problem on each.
 
+🔗 Code Links:
+👉 [Day 2-  Stacks & Queues ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/sorting)
+
 ---
 ---
