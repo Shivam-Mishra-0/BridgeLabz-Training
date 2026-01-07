@@ -1,7 +1,7 @@
 package com.linkedlist.circularlinkedlist.roundrobincpuscheduling;
 
 public class ProcessNode {
-    int processId;
+    int processId; 
     int burstTime;
     int remainingTime;
     int priority;
