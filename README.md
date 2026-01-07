@@ -186,4 +186,16 @@ BridgeLabz-Training/
 👉 [LeetCode Class and Object Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-base)
 
 ---
+
+### 🗓 Day 17 – LeetCode-based Practice  
+**(Date: 07-Jan-2026)**
+
+- Practiced **1** classes and objects based problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+  
+- 🔗 **Code Links:**  
+👉 [LeetCode Class and Object Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-base)
+
+---
 ---
