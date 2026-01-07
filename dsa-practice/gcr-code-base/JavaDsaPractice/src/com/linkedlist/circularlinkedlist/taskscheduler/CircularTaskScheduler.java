@@ -1,6 +1,6 @@
 package com.linkedlist.circularlinkedlist.taskscheduler;
 
-public class CircularTaskScheduler {
+public class CircularTaskScheduler { 
     public static void main(String[] args) {
 
         TaskScheduler scheduler = new TaskScheduler();
