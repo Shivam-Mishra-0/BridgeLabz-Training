@@ -5,7 +5,7 @@ public class SocialMediaLinkedList {
 
     public void addUser(int id, String name, int age) {
         UserNode newUser = new UserNode(id, name, age);
-        newUser.next = head;
+        newUser.next = head; 
         head = newUser;
     }
 
