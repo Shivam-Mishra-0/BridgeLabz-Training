@@ -1,5 +1,5 @@
 package com.linkedlist.singlylinkedlist.studentrecordmanagement;
-
+ 
 public class StudentLinkedList {
     private StudentNode head;
 
