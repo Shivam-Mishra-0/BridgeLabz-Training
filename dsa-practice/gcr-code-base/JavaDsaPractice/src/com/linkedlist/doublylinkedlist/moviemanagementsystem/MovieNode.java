@@ -7,7 +7,7 @@ public class MovieNode {
     double rating;
     MovieNode prev;
     MovieNode next;
-
+ 
     MovieNode(String title, String director, int year, double rating) {
         this.title = title;
         this.director = director;
