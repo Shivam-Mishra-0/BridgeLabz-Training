@@ -2,7 +2,7 @@ package com.linkedlist.singlylinkedlist.socialmediafriend;
 
 public class FriendNode {
     int friendId;
-    FriendNode next;
+    FriendNode next; 
 
     FriendNode(int friendId) {
         this.friendId = friendId;
