@@ -2,7 +2,7 @@ package com.linkedlist.singlylinkedlist.inventorymanagementsystem;
 
 public class InventoryLinkedList {
     private ItemNode head;
-
+ 
     // Add at beginning
     public void addAtBeginning(int id, String name, int qty, double price) {
         ItemNode newNode = new ItemNode(id, name, qty, price);
