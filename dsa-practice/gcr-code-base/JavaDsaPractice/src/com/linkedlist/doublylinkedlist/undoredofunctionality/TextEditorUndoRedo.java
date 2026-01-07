@@ -2,7 +2,7 @@ package com.linkedlist.doublylinkedlist.undoredofunctionality;
 
 public class TextEditorUndoRedo {
     private TextState head;
-    private TextState tail;
+    private TextState tail; 
     private TextState current;
     private int size;
     private final int MAX_HISTORY = 10;
