@@ -1,6 +1,6 @@
 package com.linkedlist.doublylinkedlist.librarymanagementsystem;
 
-public class LibraryManagementSystem {
+public class LibraryManagementSystem { 
     public static void main(String[] args) {
 
         LibraryDoublyLinkedList library = new LibraryDoublyLinkedList();
