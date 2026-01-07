@@ -2,7 +2,7 @@ package com.linkedlist.doublylinkedlist.undoredofunctionality;
 
 public class TextState {
     String content;
-    TextState prev;
+    TextState prev; 
     TextState next;
 
     TextState(String content) {
