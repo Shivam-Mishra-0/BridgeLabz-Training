@@ -5,7 +5,7 @@ public class BookNode {
     String title;
     String author;
     String genre;
-    boolean isAvailable;
+    boolean isAvailable; 
     BookNode next;
     BookNode prev;
 
