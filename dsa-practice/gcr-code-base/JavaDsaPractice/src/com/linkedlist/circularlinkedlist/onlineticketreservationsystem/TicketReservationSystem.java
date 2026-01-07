@@ -3,7 +3,7 @@ package com.linkedlist.circularlinkedlist.onlineticketreservationsystem;
 public class TicketReservationSystem {
     private TicketNode head;
 
-    public void addTicket(int id, String customer, String movie,
+    public void addTicket(int id, String customer, String movie, 
                           String seat, String time) {
 
         TicketNode newNode = new TicketNode(id, customer, movie, seat, time);
