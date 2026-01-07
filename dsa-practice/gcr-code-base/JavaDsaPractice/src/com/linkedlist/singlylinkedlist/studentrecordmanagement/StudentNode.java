@@ -4,7 +4,7 @@ public class StudentNode {
     int rollNo;
     String name;
     int age;
-    char grade;
+    char grade; 
     StudentNode next;
 
     StudentNode(int rollNo, String name, int age, char grade) {
