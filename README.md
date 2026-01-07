@@ -24,7 +24,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Day 1 – Data Structures Overview
+### 📅 Day 1 – Data Structures Overview & Linked List
 **(Date: 02-Jan-2026)**  
 
 - Learned fundamentals of **Data Structures**
