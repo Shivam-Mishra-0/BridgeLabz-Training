@@ -1,6 +1,6 @@
 package com.linkedlist.singlylinkedlist.socialmediafriend;
 
-public class SocialMediaFriendConnections {
+public class SocialMediaFriendConnections { 
     public static void main(String[] args) {
 
         SocialMediaLinkedList sm = new SocialMediaLinkedList();
