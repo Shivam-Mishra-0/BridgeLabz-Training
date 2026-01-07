@@ -1,5 +1,5 @@
 package com.linkedlist.singlylinkedlist.inventorymanagementsystem;
-
+ 
 public class ItemNode {
     int itemId;
     String itemName;
