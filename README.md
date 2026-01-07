@@ -207,6 +207,22 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 ---
+
+## 🔗 Quick Links
+
+### `core-java-practice` :
+| 📌 Topic | 🔗 Access Link |
+| :--- | :--- |
+| **Prerequisites** | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program%20Prerequisites) |
+| **Programming Elements** | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements) |
+| **Control Flows** | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow) |
+| **Arrays** | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays) |
+| **Methods** | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods) |
+| **Strings** | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings) |
+| **Built-In Functions** | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/built-in-function) |
+| **Scenario Based Codebase** | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) |
+| **LeetCode Codebase** | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase) |
+---
 ---
 
 # 📅 Week 2: Java Programming Fundamentals and Object oriented concepts
@@ -352,6 +368,21 @@ Learned and practiced Encapsulation along with scenario-based OOPS problem solvi
 - Committed and pushed all solutions.
 
 ---
+
+## 🔗 Quick Links
+
+| 📂 Java OOPs Practice |
+| :--- |
+| 📌 [Classes and Objects](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/classandobject) |
+| 📌 [Constructors](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/constructor/level01) |
+| 📌 [this, final, static, instanceof](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/inbuiltfunctions) |
+| 📌 [Object Modeling & Relations](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/objectmodeling) |
+| 📌 [Inheritance & Types](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/inheritance) |
+| 📌 [Encapsulation & Polymorphism](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/encapsulation) |
+| 📌 [LeetCode Solutions](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-base) |
+| 📌 [Scenario-Based Solutions](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com) |
+
+---
 ---
 
 # 📅 Week 3: Data Structure and Algorithm
@@ -397,5 +428,14 @@ Practiced fundamental **sorting techniques** to organize data efficiently:
 - **Heap Sort** – Max Heap based sorting
 - **Counting Sort** – Frequency-based non-comparison sort
 
+---
+## 🔗 Quick Links
+
+| 📂 DSA Practice |
+| :--- |
+| 📌 [Linked Lists](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/linkedlist) |
+| 📌 [Stacks & Queues](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/stackandqueue) |
+| 📌 [HashMaps](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/hashmapandhashfunctions) |
+| 📌 [Sorting Algorithms](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/sorting) |
 ---
 ---
