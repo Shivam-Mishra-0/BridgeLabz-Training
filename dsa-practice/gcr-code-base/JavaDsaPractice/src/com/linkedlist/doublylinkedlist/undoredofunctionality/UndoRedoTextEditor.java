@@ -6,7 +6,7 @@ public class UndoRedoTextEditor {
         TextEditorUndoRedo editor = new TextEditorUndoRedo();
 
         editor.addState("Hello");
-        editor.addState("Hello World");
+        editor.addState("Hello World"); 
         editor.addState("Hello World!");
         editor.addState("Hello World! Welcome");
         editor.addState("Hello World! Welcome to Java");
