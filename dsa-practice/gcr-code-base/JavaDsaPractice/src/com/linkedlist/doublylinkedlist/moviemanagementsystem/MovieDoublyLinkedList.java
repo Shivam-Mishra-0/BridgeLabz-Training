@@ -2,7 +2,7 @@ package com.linkedlist.doublylinkedlist.moviemanagementsystem;
 
 public class MovieDoublyLinkedList {
     private MovieNode head;
-    private MovieNode tail;
+    private MovieNode tail; 
 
     // Add at beginning
     public void addAtBeginning(String title, String director, int year, double rating) {
