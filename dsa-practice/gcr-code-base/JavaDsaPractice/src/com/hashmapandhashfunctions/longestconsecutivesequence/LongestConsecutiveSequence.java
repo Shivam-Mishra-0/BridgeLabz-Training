@@ -3,7 +3,7 @@ package com.hashmapandhashfunctions.longestconsecutivesequence;
 import java.util.HashSet;
 import java.util.Set;
 
-public class LongestConsecutiveSequence {
+public class LongestConsecutiveSequence { 
 
     public static int findLongestConsecutive(int[] nums) {
 
