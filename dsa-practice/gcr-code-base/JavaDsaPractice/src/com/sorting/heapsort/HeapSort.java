@@ -5,7 +5,7 @@ public class HeapSort {
     // Heap Sort to sort an array in ascending
     public static void sort(int[] arr) {
         int n = arr.length;
-
+ 
         // Build max heap
         for (int i = n / 2 - 1; i >= 0; i--) {
             heapify(arr, n, i);
