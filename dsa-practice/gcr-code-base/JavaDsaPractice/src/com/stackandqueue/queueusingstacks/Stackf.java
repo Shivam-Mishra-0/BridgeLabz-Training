@@ -2,7 +2,7 @@ package com.stackandqueue.queueusingstacks;
 
 public class Stackf {
 
-    private int[] elements;
+    private int[] elements; 
     private int top;
 
     Stackf(int capacity) {
