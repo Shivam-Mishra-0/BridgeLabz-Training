@@ -9,7 +9,7 @@ class QueueUsingTwoStacks {
         enqueueStack = new Stackf(capacity);
         dequeueStack = new Stackf(capacity);
     }
-
+ 
     // Insert element into queue
     void enqueue(int value) {
         enqueueStack.push(value);
