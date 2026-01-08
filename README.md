@@ -149,6 +149,9 @@ BridgeLabz-Training/
 - Focused on logical thinking and real-world problem solving.
 - Committed and pushed all solutions.
 
+- 🔗 **Code Links:**
+👉 [Scenario Based Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com)
+
 ---
 
 ### 🗓 Day 18 – Scenario-Based Practice  
@@ -157,6 +160,21 @@ BridgeLabz-Training/
 - Solved **5** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
 - Committed and pushed all solutions.
+
+- 🔗 **Code Links:**
+👉 [Scenario Based Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com)
+
+---
+
+### 🗓 Day 19 – Scenario-Based Practice  
+**(Date: 07-Jan-2026)**
+
+- Solved **4** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+
+- 🔗 **Code Links:**
+👉 [Scenario Based Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com)
 
 ---
 ---
