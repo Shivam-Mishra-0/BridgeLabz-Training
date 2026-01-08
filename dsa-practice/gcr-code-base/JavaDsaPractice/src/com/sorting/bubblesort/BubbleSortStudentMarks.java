@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class BubbleSortStudentMarks {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
 
         int[] studentMarks1 = {45, 78, 62, 89, 34, 90};
 
