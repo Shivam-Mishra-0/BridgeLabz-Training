@@ -7,7 +7,7 @@ public class InsertionSort {
 
         int n = arr.length;
 
-        // Traverse from second element
+        // Traverse from second element 
         for (int i = 1; i < n; i++) {
 
             int current = arr[i];
