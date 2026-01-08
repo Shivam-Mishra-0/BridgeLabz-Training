@@ -3,7 +3,7 @@ package com.sorting.mergesort;
 import java.util.Arrays;
 
 public class MergeSortBookPrices {
-
+ 
     public static void main(String[] args) {
 
         int[] bookPrices = {450, 120, 300, 200, 500, 150};
