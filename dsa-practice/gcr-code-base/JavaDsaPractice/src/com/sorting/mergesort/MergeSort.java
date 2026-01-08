@@ -1,6 +1,6 @@
 package com.sorting.mergesort;
 
-public class MergeSort {
+public class MergeSort { 
 
     // Sorts the array using merge sort
     public static void sort(int[] prices, int left, int right) {
