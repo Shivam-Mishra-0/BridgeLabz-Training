@@ -2,7 +2,7 @@ package com.sorting.bubblesort;
 
 public class BubbleSort {
 
-    // Bubble Sort to sort array in ascending order
+    // Bubble Sort to sort array in ascending order 
     public static void sort(int[] marks) {
         int n = marks.length;
  
