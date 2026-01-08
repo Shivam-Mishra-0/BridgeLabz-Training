@@ -2,7 +2,7 @@ package com.stackandqueue.stockspanproblem;
 
 class StockSpanProblem {
 
-    static int[] calculateStockSpan(int[] prices) {
+    static int[] calculateStockSpan(int[] prices) { 
 
         int numberOfDays = prices.length;
         int[] span = new int[numberOfDays];
