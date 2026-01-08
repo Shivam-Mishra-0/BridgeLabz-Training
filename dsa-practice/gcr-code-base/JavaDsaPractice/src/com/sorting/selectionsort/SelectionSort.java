@@ -5,7 +5,7 @@ public class SelectionSort {
 	// Selection Sort to sort array
 	public static void sort(int[] arr) {
 
-		int n = arr.length;
+		int n = arr.length; 
 
 		// Move boundary of unsorted part
 		for (int i = 0; i < n - 1; i++) {
