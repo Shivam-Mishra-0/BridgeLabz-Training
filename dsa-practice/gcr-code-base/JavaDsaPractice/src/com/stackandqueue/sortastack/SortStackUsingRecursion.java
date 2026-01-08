@@ -6,7 +6,7 @@ class SortStackUsingRecursion {
     static void sortStack(Stack stack) {
 
         if (!stack.isEmpty()) {
-            int removedElement = stack.pop();
+            int removedElement = stack.pop(); 
             sortStack(stack);
             insertInSortedOrder(stack, removedElement);
         }
