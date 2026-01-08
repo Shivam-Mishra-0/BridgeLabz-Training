@@ -1,7 +1,7 @@
 package com.sorting.quicksort;
 
 import java.util.Arrays;
-
+ 
 public class QuickSortProductPrices {
 
     public static void main(String[] args) {
