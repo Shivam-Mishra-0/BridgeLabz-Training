@@ -2,7 +2,7 @@ package com.stackandqueue.sortastack;
 
 public class Stack {
 
-    private int[] elements;
+    private int[] elements; 
     private int top;
 
     Stack(int capacity) {
