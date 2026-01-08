@@ -13,27 +13,43 @@ BridgeLabz-Training/
 │
 ├── 📁 core-java-practice/
 │   ├── 📁 gcr-codebase/
-│   │   ├── 📁 prerequisites/          # Basic Java programs 
-│   │   ├── 📁 programming-elements/   # Java programming elements 
-│   │   ├── 📁 control-flows/          # If-else, loops, switch 
-│   │   ├── 📁 arrays/                 # Array operations
-│   │   ├── 📁 methods/                # Method practices
-│   │   ├── 📁 strings/                # String manipulation 
-│   │   └── 📁 Extras/                 # Built-in methods
-│   ├── 📁 leet-code-codebase/         # LeetCode solutions
-│   └── 📁 scenario-based-codebase/    # Real-world problems
+│   │   ├── 📁 programming-prerequisites/
+│   │   ├── 📁 programming-elements/
+│   │   ├── 📁 control-flows/
+│   │   ├── 📁 arrays/
+│   │   ├── 📁 methods/
+│   │   ├── 📁 strings/
+│   │   └── 📁 extras/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
 │
-└── 📁 java-oops-practice/
-    └── 📁 gcr-codebase/
-        └── 📁 JavaOopsConcepts/
-            └── 📁 src/
-                └── 📁 com/
-                    ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
-                    └── 📁 constructor/       # Constructor, access modifiers
-                    └── 📁 finalandstatic/    # Keywords, instance vs class members
-                    └── 📁 objectmodeling/    # Diagrams, relationships, communication
-                    └── 📁 inheritance/       # Types, method overriding, & access modifiers
-                    └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
+├── 📁 java-oops-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/
+│   │               ├── 📁 constructor/
+│   │               ├── 📁 finalandstatic/
+│   │               ├── 📁 objectmodeling/
+│   │               ├── 📁 inheritance/
+│   │               └── 📁 encapsulation/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
+│
+├── 📁 dsa-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaDsaPractice/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 linkedlist/
+│   │               ├── 📁 stacksandqueues/
+│   │               ├── 📁 hashmapsandfunctions/
+│   │               └── 📁 sorting/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
+│
+└── README.md
 ```
 
 - Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
@@ -347,6 +363,26 @@ Learned and practiced Encapsulation along with scenario-based OOPS problem solvi
 - Committed and pushed the solutions
 
 ---
+
+### 🗓 Day 9 – Scenario-Based Practice  
+**(Date: 07-Jan-2026)**
+
+- Solved **3** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- "EduMentor – Personalized Learning Platform"
+- Committed and pushed the solutions
+
+---
+
+### 🗓 Day 10 – Scenario-Based Practice  
+**(Date: 06-Jan-2026)**
+
+- Solved **4** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- "EduMentor – Personalized Learning Platform"
+- Committed and pushed the solutions
+
+---
 ---
 
 ## 🧮 Section C : LeetCode-based Problems Progress
@@ -438,6 +474,30 @@ Practiced fundamental **sorting techniques** to organize data efficiently:
 - **Counting Sort** – Frequency-based non-comparison sort
 
 ---
+
+### 🗓 Day 4 – Java I/O Streams, String Optimization & Search Algorithms  
+**(Date: 06-Jan-2026)**  
+
+Practiced **Java input/output streams** and **efficient string manipulation** for real-world applications:
+
+- **File-Based Searching**
+  - Read large files using BufferedReader
+  - Extract & search words using linear and binary search
+
+- **String Optimization**
+  - String vs StringBuilder vs StringBuffer
+  - Performance & thread-safety comparison
+  - 
+- **Linear Search**
+  - Array & text-based searching
+  - Best for unsorted or small datasets
+
+- **Binary Search**
+  - Rotated arrays, peak elements, 2D matrices
+  - First/last occurrence in sorted data
+
+
+---
 ## 🔗 Quick Links
 
 | 📂 DSA Practice |
@@ -446,5 +506,6 @@ Practiced fundamental **sorting techniques** to organize data efficiently:
 | 📌 [Stacks & Queues](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/stackandqueue) |
 | 📌 [HashMaps](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/hashmapandhashfunctions) |
 | 📌 [Sorting Algorithms](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/sorting) |
+| 📌 [Linear & Binary Search](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/linearandbinarysearch) |
 ---
 ---
