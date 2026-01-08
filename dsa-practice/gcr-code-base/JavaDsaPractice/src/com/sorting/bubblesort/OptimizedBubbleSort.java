@@ -7,7 +7,7 @@ public class OptimizedBubbleSort {
     	int n = marks.length;
         boolean swapped;
 
-        // Traverse array passes
+        // Traverse array passes 
         for (int i = 0; i < n - 1; i++) {
 
             swapped = false;
