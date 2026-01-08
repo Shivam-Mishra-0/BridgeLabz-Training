@@ -1,7 +1,7 @@
 package com.stackandqueue.slidingwindowmaximum;
 
 class SlidingWindowMaximum {
-
+ 
     static void printMaximumInEachWindow(int[] array, int windowSize) {
 
         DequeArray deque = new DequeArray(array.length);
