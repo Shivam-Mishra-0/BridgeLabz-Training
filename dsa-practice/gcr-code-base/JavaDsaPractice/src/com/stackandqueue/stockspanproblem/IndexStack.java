@@ -7,7 +7,7 @@ public class IndexStack {
 
     IndexStack(int capacity) {
         elements = new int[capacity];
-        top = -1;
+        top = -1; 
     }
 
     boolean isEmpty() {
