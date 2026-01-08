@@ -4,7 +4,7 @@ public class OptimizedInsertionSort {
 	
 	// Optimized Insertion Sort 
 	public static void sort(int[] arr) {
-
+ 
 		int n = arr.length;
 
 		for (int i = 1; i < n; i++) {
