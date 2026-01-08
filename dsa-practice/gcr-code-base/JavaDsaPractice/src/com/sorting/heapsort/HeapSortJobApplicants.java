@@ -3,7 +3,7 @@ package com.sorting.heapsort;
 import java.util.Arrays;
 
 public class HeapSortJobApplicants {
-
+ 
     public static void main(String[] args) {
 
         int[] salaries = {75000, 50000, 90000, 60000, 85000};
