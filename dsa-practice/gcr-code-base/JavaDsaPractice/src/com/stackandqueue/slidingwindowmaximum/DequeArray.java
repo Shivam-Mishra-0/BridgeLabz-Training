@@ -2,7 +2,7 @@ package com.stackandqueue.slidingwindowmaximum;
 
 public class DequeArray {
 
-    private int[] elements;
+    private int[] elements; 
     private int front;
     private int rear;
 
