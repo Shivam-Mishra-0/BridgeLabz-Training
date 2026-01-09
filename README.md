@@ -126,7 +126,11 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
   
 - 🔗 **Code Links:**
-👉 [Scenario Based Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com)
+👉 [Problem 1](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/hospitalpatientmanagementsystem)
+👉 [Problem 2](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/vehiclerentalsystem)
+👉 [Problem 3](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/universitycourseenrollmentsystem)
+👉 [Problem 4](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/ewalletapplication)
+👉 [Problem 5](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/smarthomeautomationsystem)
 
 ---
 
@@ -138,7 +142,8 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
   
 - 🔗 **Code Links:**
-👉 [Scenario Based Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com)
+👉 [Problems 6](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/cabbygo)
+👉 [Problem 7](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/mybank)
 
 ---
 
@@ -150,7 +155,7 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 
 - 🔗 **Code Links:**
-👉 [Scenario Based Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com)
+👉 [Problems 8](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/campusconnect008)
 
 ---
 
@@ -162,7 +167,11 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 
 - 🔗 **Code Links:**
-👉 [Scenario Based Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com)
+👉 [Problems 9](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/swiftcart9)
+👉 [Problem 10](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/edumentor)
+👉 [Problem 11](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/fitnesstracker)
+👉 [Problem 12](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/petpal)
+👉 [Problem 13](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/eventease)
 
 ---
 
@@ -174,7 +183,33 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 
 - 🔗 **Code Links:**
-👉 [Scenario Based Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com)
+👉 [Problems 14](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/loanbuddy)
+
+---
+
+### 🗓 Day 20 – Scenario-Based Practice  
+**(Date: 08-Jan-2026)**
+
+- Solved **2** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+
+- 🔗 **Code Links:**
+👉 [Problems 15](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/bookbazaar)
+👉 [Problems 16](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/parkease)
+
+---
+
+### 🗓 Day 21 – Scenario-Based Practice  
+**(Date: 09-Jan-2026)**
+
+- Solved **2** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+
+- 🔗 **Code Links:**
+👉 [Problems 17](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/medistore)
+👉 [Problems 18](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/tourmate)
 
 ---
 ---
