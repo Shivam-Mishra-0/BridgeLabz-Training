@@ -20,7 +20,7 @@ public class Tablet extends Medicine
 	@Override
 	public void checkExpiry()
 	{	System.out.println(" Checking the Tablet Expiring Date.....");
-		if ( getExpiryDate() > 2025 )
+		if ( getExpiryDate() < 2025 )
 		{	System.out.println( "  " + getName() + " is Expired...");			
 		}
 		else
