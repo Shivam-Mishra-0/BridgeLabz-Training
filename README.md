@@ -383,6 +383,16 @@ Learned and practiced Encapsulation along with scenario-based OOPS problem solvi
 - Committed and pushed the solutions
 
 ---
+
+### 🗓 Day 11 – Scenario-Based Practice  
+**(Date: 06-Jan-2026)**
+
+- Solved ***2* scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- "EduMentor – Personalized Learning Platform"
+- Committed and pushed the solutions
+
+---
 ---
 
 ## 🧮 Section C : LeetCode-based Problems Progress
@@ -496,6 +506,23 @@ Practiced **Java input/output streams** and **efficient string manipulation** fo
   - Rotated arrays, peak elements, 2D matrices
   - First/last occurrence in sorted data
 
+---
+
+### 🗓 Day 5  –  Runtime Analysis & Big-O Notation   
+**(Date: 09-Jan-2026)**  
+ 
+Learned how to **measure algorithm efficiency** based on time and space growth.
+
+####  Topics Covered
+- **Big-O Notations:** O(1), O(log N), O(N), O(N log N), O(N²), O(2ⁿ), O(N!)
+- **Time Complexity:** Best, Average, Worst case analysis
+- **Space Complexity:** O(1) vs O(N)
+- **Algorithm Comparison:** Linear Search, Binary Search, Bubble Sort, Merge Sort, Quick Sort
+
+**Focus:**  
+- Choosing efficient algorithms  
+- Reducing nested loops  
+- Optimizing time & space usage
 
 ---
 ## 🔗 Quick Links
@@ -507,5 +534,7 @@ Practiced **Java input/output streams** and **efficient string manipulation** fo
 | 📌 [HashMaps](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/hashmapandhashfunctions) |
 | 📌 [Sorting Algorithms](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/sorting) |
 | 📌 [Linear & Binary Search](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/linearandbinarysearch) |
+| 📌 [Analysis](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/analysis) |
+
 ---
 ---
