@@ -20,8 +20,7 @@ public class Syrup extends Medicine
 	@Override
 	public void checkExpiry()
 	{	System.out.println(" Checking the Syrup Expiring Date.....");
-		System.out.println(" Checking the Syrup Expiring Date.....");
-		if ( getExpiryDate() > 2025 )
+		if ( getExpiryDate() < 2025 )
 		{	System.out.println( "  " + getName() + " is Expired...");			
 		}
 		else
