@@ -76,7 +76,7 @@ BridgeLabz-Training/
 - Understood algorithms and solved problem on each.
 
 🔗 Code Links:
-👉 [Day 2-  Sorting ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/sorting)
+👉 [Day 3-  Sorting ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/sorting)
 
 ---
 
@@ -111,7 +111,28 @@ Practiced **Java input/output streams** and **efficient string manipulation** fo
   - Efficient searching in sorted datasets
  
 🔗 Code Links:
-👉 [Day 2-  Linear & Binary Search ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/linearandbinarysearch)
+👉 [Day 4-  Linear & Binary Search ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/linearandbinarysearch)
+
+---
+
+### 🗓 Day 5 –  Runtime Analysis & Big-O Notation   
+**(Date: 09-Jan-2026)** 
+ 
+Learned how to **measure algorithm efficiency** based on time and space growth.
+
+####  Topics Covered
+- **Big-O Notations:** O(1), O(log N), O(N), O(N log N), O(N²), O(2ⁿ), O(N!)
+- **Time Complexity:** Best, Average, Worst case analysis
+- **Space Complexity:** O(1) vs O(N)
+- **Algorithm Comparison:** Linear Search, Binary Search, Bubble Sort, Merge Sort, Quick Sort
+
+**Focus:**  
+- Choosing efficient algorithms  
+- Reducing nested loops  
+- Optimizing time & space usage
+
+🔗 Code Links:
+👉 [Day 5-  Analysis ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/analysis)
 
 ---
 ---
