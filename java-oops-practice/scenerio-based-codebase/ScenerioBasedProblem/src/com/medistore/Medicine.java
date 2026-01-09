@@ -10,7 +10,6 @@ public class Medicine
 	{	this.name = name;
 		this.price = price;
 		this.expiryDate = expiryDate;
-		this.quantity = 10;
 	}
 	
 	public String getName()
