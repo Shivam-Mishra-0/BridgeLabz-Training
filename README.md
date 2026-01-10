@@ -369,27 +369,42 @@ Learned and practiced Encapsulation along with scenario-based OOPS problem solvi
 
 - Solved **3** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
-- "EduMentor – Personalized Learning Platform"
+- "FitTrack – Your Personal Fitness Tracker"
+- "PetPal – Virtual Pet Care App"
+- "EventEase – Event Management Platform"
 - Committed and pushed the solutions
 
 ---
 
 ### 🗓 Day 10 – Scenario-Based Practice  
-**(Date: 06-Jan-2026)**
+**(Date: 08-Jan-2026)**
 
 - Solved **4** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
-- "EduMentor – Personalized Learning Platform"
+- "LoanBuddy – Loan Approval Automation"
+- "BookBazaar – Digital Bookstore System"
+- "ParkEase – Smart Parking Management System"
+- "MediStore – Pharmacy Inventory & Sales System"
 - Committed and pushed the solutions
 
 ---
 
 ### 🗓 Day 11 – Scenario-Based Practice  
-**(Date: 06-Jan-2026)**
+**(Date: 09-Jan-2026)**
 
-- Solved ***2* scenario-based problems.
+- Solved **1** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
-- "EduMentor – Personalized Learning Platform"
+- "TourMate – Travel Itinerary Planner"
+- Committed and pushed the solutions
+
+---
+
+### 🗓 Day 12 – Scenario-Based Practice  
+**(Date: 10-Jan-2026)**
+
+- Solved **1** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- "Artify – Digital Art Marketplace"
 - Committed and pushed the solutions
 
 ---
