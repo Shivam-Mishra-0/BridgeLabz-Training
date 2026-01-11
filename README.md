@@ -2,7 +2,7 @@
 
 ## 📂 Project Structure
 
-```text
+```
 BridgeLabz-Training/
 │
 ├── dsa-practice/
