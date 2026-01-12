@@ -408,6 +408,17 @@ Learned and practiced Encapsulation along with scenario-based OOPS problem solvi
 - Committed and pushed the solutions
 
 ---
+
+### 🗓 Day 13 – Scenario-Based Practice  
+**(Date: 12-Jan-2026)**
+
+- Solved **2** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- "FoodLoop – Restaurant Ordering System"
+- "SkillForge – Online Learning Portal"
+- Committed and pushed the solutions
+
+---
 ---
 
 ## 🧮 Section C : LeetCode-based Problems Progress
@@ -434,6 +445,15 @@ Learned and practiced Encapsulation along with scenario-based OOPS problem solvi
 **(Date: 07-Jan-2026)**
 
 - Practiced **1** constructors and final & static based problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+
+---
+
+### 🗓 Day 10 – LeetCode-based Practice  
+**(Date: 12-Jan-2026)**
+
+- Practiced **2** constructors and final & static based problems.
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
 
@@ -540,6 +560,23 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 - Optimizing time & space usage
 
 ---
+
+## 🧩 Section B : Scenario-Based Problems Progress
+---
+
+### 🗓 Day 1 – Scenario-Based Practice  
+**(Date: 12-Jan-2026)**
+
+- Solved **3** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- "BookShelf – Library Organizer (HashMap + Linked List)"
+- "BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)"
+- "AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)"
+- Committed and pushed all solutions.
+
+---
+---
+
 ## 🔗 Quick Links
 
 | 📂 DSA Practice |
