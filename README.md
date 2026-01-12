@@ -139,6 +139,20 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 
 ## Section B - Scenario-based-codebase
 
+### 🗓 Day 1 – Scenario-Based Practice  
+**(Date: 12-Jan-2026)**
+- Solved **3** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Problem 1 : "BookShelf – Library Organizer (HashMap + Linked List)"
+- Problem 2 : "BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)"
+- Problem 3 : "AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)"
+- Committed and pushed all solutions.
+  
+- 🔗 **Code Links:**  
+👉 | [Problem 1] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bookshelfapplication) |
+👉 | [Problem 2] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/browserbuddyapplication) |
+👉 | [Problem 3] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/ambulancerouteapplication) |
+
 ---
 ---
 
