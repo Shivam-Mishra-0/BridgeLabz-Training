@@ -11,7 +11,7 @@ BridgeLabz-Training/
 │   │   │   │   │   │── finalandstatic/
 │   │   │   │   │   │── objectmodeling/
 │   │   │   │   │   │── inheritance/
-│   │   │   │   │   │── encapsulation/
+│   │   │   │   │   │── encapsulation/ 
 |   |   
 │   │── leet-code-codebase/
 │   │── scenario-based-codebase/
