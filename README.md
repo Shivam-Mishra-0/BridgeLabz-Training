@@ -8,7 +8,7 @@ BridgeLabz-Training/
 ├── dsa-practice/
 │   │
 │   ├── gcr-codebase/
-│   │   └── JavaDsaPractice/
+│   │   └── JavaDsaPractice/ 
 │   │       └── src/
 │   │           └── com/
 │   │               └── (Core DSA implementations)
