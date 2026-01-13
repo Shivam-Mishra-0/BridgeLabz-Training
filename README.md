@@ -11,7 +11,7 @@
 ```
 BridgeLabz-Training/
 │
-├── 📁 core-java-practice/
+├── 📁 core-java-practice/ 
 │   ├── 📁 gcr-codebase/
 │   │   ├── 📁 programming-prerequisites/
 │   │   ├── 📁 programming-elements/
