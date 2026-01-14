@@ -240,7 +240,21 @@ BridgeLabz-Training/
 
 - 🔗 **Code Links:**
 👉 | [Problems 20] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/foodloopapplication) |
-👉 | [Problems 20] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/skillforgeapplication) |
+👉 | [Problems 21] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/skillforgeapplication) |
+
+---
+
+### 🗓 Day 24 – Scenario-Based Practice  
+**(Date: 14-Jan-2026)**
+
+- Solved **3** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+
+- 🔗 **Code Links:**
+👉 | [Problems 22] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/homenest) |
+👉 | [Problems 23] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/budgetwiseapp) |
+👉 | [Problems 24] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/gameboxapp) |
 
 ---
 ---
@@ -293,6 +307,19 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 | [LeetCode Problems] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/blob/java-oops-practice/java-oops-practice/leet-code-base/MoveZeroes.java) |
 👉 | [LeetCode Problems] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/blob/java-oops-practice/java-oops-practice/leet-code-base/RotateArray.java) |
+
+---
+
+### 🗓 Day 19 – LeetCode-based Practice  
+**(Date: 14-Jan-2026)**
+
+- Practiced **2** classes and objects based problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+  
+- 🔗 **Code Links:**  
+👉 | [LeetCode Problems] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/blob/java-oops-practice/java-oops-practice/leet-code-base/MaxConsecutiveOnes.java) |
+👉 | [LeetCode Problems] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/blob/java-oops-practice/java-oops-practice/leet-code-base/ReverseVowelsOfAString.java) |
 
 ---
 ---
