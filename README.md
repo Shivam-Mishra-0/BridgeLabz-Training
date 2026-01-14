@@ -440,6 +440,18 @@ Learned and practiced Encapsulation along with scenario-based OOPS problem solvi
 - Committed and pushed the solutions
 
 ---
+
+### 🗓 Day 14 – Scenario-Based Practice  
+**(Date: 14-Jan-2026)**
+
+- Solved **3** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- "HomeNest – Smart Home Device Manager"
+- "BudgetWise – Personal Finance Tracker"
+- "GameBox – Mobile Game Distribution Platform"
+- Committed and pushed the solutions
+
+---
 ---
 
 ## 🧮 Section C : LeetCode-based Problems Progress
@@ -473,6 +485,15 @@ Learned and practiced Encapsulation along with scenario-based OOPS problem solvi
 
 ### 🗓 Day 10 – LeetCode-based Practice  
 **(Date: 12-Jan-2026)**
+
+- Practiced **2** constructors and final & static based problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+
+---
+
+### 🗓 Day 11 – LeetCode-based Practice  
+**(Date: 14-Jan-2026)**
 
 - Practiced **2** constructors and final & static based problems.
 - Created driver-main method & taken user inputs.
