@@ -617,6 +617,32 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 - Committed and pushed all solutions.
 
 ---
+
+### 🗓 Day 1 – Scenario-Based Practice  
+**(Date: 15-Jan-2026)**
+
+- Solved **4** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- "CallCenter – Customer Queue Manager (Queue + HashMap)"
+- "TrainCompanion – Compartment Navigation System (Doubly Linked"
+- "TextEditor – Undo/Redo Functionality (Stack)"
+- "TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)"
+- Committed and pushed all solutions.
+
+---
+
+
+## 🧩 Section C : Leetcode-codebase Problems Progress
+---
+
+### 🗓 Day 1 – Leet-code-codebase Practice  
+**(Date: 15-Jan-2026)**
+
+- Solved **2** leet-code-codebase problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+
+---
 ---
 
 ## 🔗 Quick Links
