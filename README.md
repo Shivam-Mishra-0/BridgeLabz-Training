@@ -154,9 +154,39 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 👉 | [Problem 3] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/ambulancerouteapplication) |
 
 ---
+
+### 🗓 Day 2 – Scenario-Based Practice  
+**(Date: 15-Jan-2026)**
+- Solved **4** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Problem 1 : "CallCenter – Customer Queue Manager (Queue + HashMap)"
+- Problem 2 : "TrainCompanion – Compartment Navigation System (Doubly LinkedList)"
+- Problem 3 : "TextEditor – Undo/Redo Functionality (Stack)"
+- Problem 4 : "TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)"
+- Committed and pushed all solutions.
+  
+- 🔗 **Code Links:**  
+👉 | [Problem 1] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/callcenterapplication) |
+👉 | [Problem 2] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/traincompanion) |
+👉 | [Problem 3] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/texteditorapplication) |
+👉 | [Problem 4] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/trafficmanagerapplication) |
+
+---
 ---
 
 ## Section C - Leet-code-base
+
+### 🗓 Day 1 – leet-code-codebase Practice  
+**(Date: 15-Jan-2026)**
+- Solved **2** leet-code-codebase problems.
+- Focused on logical thinking and real-world problem solving.
+- Problem 1 : "majorityelement"
+- Problem 2 : "majorityelement2"
+- Committed and pushed all solutions.
+  
+- 🔗 **Code Links:**  
+👉 | [Problem 1] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase/JavaLeetcodePractice/src/com/majorityelement) |
+👉 | [Problem 2] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase/JavaLeetcodePractice/src/com/majorityelement2) |
 
 ---
 ---
