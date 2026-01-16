@@ -624,9 +624,21 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 - Solved **4** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
 - "CallCenter – Customer Queue Manager (Queue + HashMap)"
-- "TrainCompanion – Compartment Navigation System (Doubly Linked"
+- "TrainCompanion – Compartment Navigation System (Doubly Linked List)"
 - "TextEditor – Undo/Redo Functionality (Stack)"
 - "TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)"
+- Committed and pushed all solutions.
+
+---
+
+### 🗓 Day 2 – Scenario-Based Practice  
+**(Date: 16-Jan-2026)**
+
+- Solved **3** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- "SmartCheckout – Supermarket Billing Queue (Queue + HashMap)"
+- "ParcelTracker – Delivery Chain Management (Singly Linked List)"
+- "ExamProctor – Online Exam Review System (Stack + HashMap + Functions)"
 - Committed and pushed all solutions.
 
 ---
