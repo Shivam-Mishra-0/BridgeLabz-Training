@@ -159,17 +159,33 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 **(Date: 15-Jan-2026)**
 - Solved **4** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
-- Problem 1 : "CallCenter – Customer Queue Manager (Queue + HashMap)"
-- Problem 2 : "TrainCompanion – Compartment Navigation System (Doubly LinkedList)"
-- Problem 3 : "TextEditor – Undo/Redo Functionality (Stack)"
-- Problem 4 : "TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)"
+- Problem 4 : "CallCenter – Customer Queue Manager (Queue + HashMap)"
+- Problem 5 : "TrainCompanion – Compartment Navigation System (Doubly LinkedList)"
+- Problem 6 : "TextEditor – Undo/Redo Functionality (Stack)"
+- Problem 7 : "TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)"
 - Committed and pushed all solutions.
   
 - 🔗 **Code Links:**  
-👉 | [Problem 1] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/callcenterapplication) |
-👉 | [Problem 2] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/traincompanion) |
-👉 | [Problem 3] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/texteditorapplication) |
-👉 | [Problem 4] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/trafficmanagerapplication) |
+👉 | [Problem 4] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/callcenterapplication) |
+👉 | [Problem 5] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/traincompanion) |
+👉 | [Problem 6] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/texteditorapplication) |
+👉 | [Problem 7] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/trafficmanagerapplication) |
+
+---
+
+### 🗓 Day 3 – Scenario-Based Practice  
+**(Date: 16-Jan-2026)**
+- Solved **3** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Problem 8 : "SmartCheckout – Supermarket Billing Queue (Queue + HashMap)"
+- Problem 9 : "ParcelTracker – Delivery Chain Management (Singly Linked List)"
+- Problem 10 : "ExamProctor – Online Exam Review System (Stack + HashMap + Functions)"
+- Committed and pushed all solutions.
+  
+- 🔗 **Code Links:**  
+👉 | [Problem 8] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/smartcheckout) |
+👉 | [Problem 9] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/parceltracker) |
+👉 | [Problem 10] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/examproctor) |
 
 ---
 ---
