@@ -31,6 +31,7 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:** 
+
 [Classes](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/classandobject)
 
 ### 🗓 Day 2 – Constructors  
@@ -43,6 +44,7 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:** 
+
 [Constructor](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/constructor/level01)
 
 ### 🗓 Day 3 – this, final & static in Java
@@ -56,6 +58,7 @@ BridgeLabz-Training/
 - Committed and pushed all work.
 
 🔗 **Code Link:** 
+
 [Inbuilt](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/inbuiltfunctions)
 
 ### 🗓 Day 4 – Object Modelling & Real-World Design
@@ -73,6 +76,7 @@ BridgeLabz-Training/
 - Committed and pushed all work.
 
 🔗 **Code Link:** 
+
 [Object-Modelling](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/objectmodeling)
 
 ---
@@ -96,6 +100,7 @@ BridgeLabz-Training/
 - Committed and pushed all work.
   
 🔗 **Code Link:**  
+
 [Inheritance and Types](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/inheritance)
 
 ---
@@ -117,6 +122,7 @@ BridgeLabz-Training/
 - Committed and pushed all work.
   
 🔗 **Code Link:**  
+
 [Encapsulation & Polymorphism](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/encapsulation)
 
 ---
@@ -132,10 +138,15 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
   
 - 🔗 **Code Links:**
+  
 👉 | [Problem 1] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/hospitalpatientmanagementsystem) |
+
 👉 | [Problem 2] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/vehiclerentalsystem) |
+
 👉 | [Problem 3] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/universitycourseenrollmentsystem) |
+
 👉 | [Problem 4] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/ewalletapplication) |
+
 👉 | [Problem 5] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/smarthomeautomationsystem) |
 
 ---
@@ -148,7 +159,9 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
   
 - 🔗 **Code Links:**
+  
 👉 | [Problems 6] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/cabbygo) |
+
 👉 | [Problem 7] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/mybank) |
 
 ---
@@ -161,6 +174,7 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 
 - 🔗 **Code Links:**
+  
 👉 | [Problems 8] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/campusconnect008) |
 
 ---
@@ -173,10 +187,15 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 
 - 🔗 **Code Links:**
+  
 👉 | [Problems 9] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/swiftcart9) |
+
 👉 | [Problem 10] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/edumentor) |
+
 👉 | [Problem 11] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/fitnesstracker) |
+
 👉 | [Problem 12] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/petpal) |
+
 👉 | [Problem 13] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/eventease) |
 
 ---
@@ -189,6 +208,7 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 
 - 🔗 **Code Links:**
+  
 👉 | [Problems 14] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/loanbuddy) |
 
 ---
@@ -201,7 +221,9 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 
 - 🔗 **Code Links:**
+  
 👉 | [Problems 15] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/bookbazaar) |
+
 👉 | [Problems 16] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/parkease) |
 
 ---
@@ -214,7 +236,9 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 
 - 🔗 **Code Links:**
+  
 👉 | [Problems 17] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/medistore) |
+
 👉 | [Problems 18] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/tourmate) |
 
 ---
@@ -227,6 +251,7 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 
 - 🔗 **Code Links:**
+  
 👉 | [Problems 19] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/artifyapplication) |
 
 ---
@@ -239,7 +264,9 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 
 - 🔗 **Code Links:**
+  
 👉 | [Problems 20] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/foodloopapplication) |
+
 👉 | [Problems 21] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/skillforgeapplication) |
 
 ---
@@ -252,9 +279,27 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 
 - 🔗 **Code Links:**
+  
 👉 | [Problems 22] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/homenest) |
+
 👉 | [Problems 23] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/budgetwiseapp) |
+
 👉 | [Problems 24] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/gameboxapp) |
+
+---
+
+### 🗓 Day 25 – Scenario-Based Practice  
+**(Date: 16-Jan-2026)**
+
+- Solved **2** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+
+- 🔗 **Code Links:**
+  
+👉 | [Problems 25] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/ecowingbirdsanctuary) |
+
+👉 | [Problems 26] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com/payxpress) |
 
 ---
 ---
@@ -268,7 +313,8 @@ BridgeLabz-Training/
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
   
-- 🔗 **Code Links:**  
+- 🔗 **Code Links:**
+  
 👉 | [LeetCode Problems] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-base) |
 
 ---
@@ -280,7 +326,8 @@ BridgeLabz-Training/
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
   
-- 🔗 **Code Links:**  
+- 🔗 **Code Links:**
+  
 👉 | [LeetCode Problems] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-base) |
 
 ---
@@ -292,7 +339,8 @@ BridgeLabz-Training/
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
   
-- 🔗 **Code Links:**  
+- 🔗 **Code Links:**
+  
 👉 | [LeetCode Problems] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-base) |
 
 ---
@@ -304,8 +352,10 @@ BridgeLabz-Training/
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
   
-- 🔗 **Code Links:**  
+- 🔗 **Code Links:**
+  
 👉 | [LeetCode Problems] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/blob/java-oops-practice/java-oops-practice/leet-code-base/MoveZeroes.java) |
+
 👉 | [LeetCode Problems] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/blob/java-oops-practice/java-oops-practice/leet-code-base/RotateArray.java) |
 
 ---
@@ -317,8 +367,10 @@ BridgeLabz-Training/
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
   
-- 🔗 **Code Links:**  
+- 🔗 **Code Links:**
+  
 👉 | [LeetCode Problems] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/blob/java-oops-practice/java-oops-practice/leet-code-base/MaxConsecutiveOnes.java) |
+
 👉 | [LeetCode Problems] | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/blob/java-oops-practice/java-oops-practice/leet-code-base/ReverseVowelsOfAString.java) |
 
 ---
