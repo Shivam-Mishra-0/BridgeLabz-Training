@@ -10,7 +10,7 @@ BridgeLabz-Training/
 │   ├── gcr-codebase/
 │   │   └── JavaDsaPractice/ 
 │   │       └── src/
-│   │           └── com/
+│   │           └── com/ 
 │   │               └── (Core DSA implementations)
 │   │
 │   ├── leetcode-based-codebase/
