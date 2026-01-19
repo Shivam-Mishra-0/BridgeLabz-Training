@@ -70,7 +70,7 @@ BridgeLabz-Training/
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
 │
-└── README.md
+└── README.md 
 ```
 
 - Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
