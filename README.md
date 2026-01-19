@@ -670,3 +670,16 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 
 ---
 ---
+
+# 📅 Week 4: Java Collections 
+## 📘 Section A : gcr-code-base
+
+---
+---
+
+## 📘 Section B : scenario-code-base
+
+---
+---
+
+## 📘 Section C : leet-code-base
