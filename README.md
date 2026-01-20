@@ -27,7 +27,7 @@
 - Solved practice problems based on generics.
 - Committed and pushed solutions to the repository.
 
-🔗 **Code Link:** 
+🔗 **Code Link:**  
 
 | [Classes] | [view codes](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionProblems/src/com/generics) |
 
