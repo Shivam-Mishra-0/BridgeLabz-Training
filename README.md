@@ -18,7 +18,7 @@
 
 
 # Section A : gcr-code-codebase Practice Problem
----
+--- 
 
 ### 🗓 Day 1 – Programming Elements in Java  
 **(Date: 19-Jan-2026)**
