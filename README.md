@@ -13,7 +13,7 @@ BridgeLabz-Training/
 │   │   │   │   │   │── inheritance/
 │   │   │   │   │   │── encapsulation/ 
 |   |   
-│   │── leet-code-codebase/ 
+│   │── leet-code-codebase/  
 │   │── scenario-based-codebase/
 │   │── .gitignore
 │── README.md
