@@ -20,7 +20,7 @@
 # Section A : gcr-code-codebase Practice Problem
 --- 
 
-### 🗓 Day 1 – Programming Elements in Java  
+### 🗓 Day 1 – Generics in Java  
 **(Date: 19-Jan-2026)**
 
 - Studied Java Generics 
@@ -29,7 +29,34 @@
 
 🔗 **Code Link:**  
 
-| [Classes] | [view codes](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionProblems/src/com/generics) |
+| [Generics] | [view codes](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionProblems/src/com/generics) |
+
+---
+
+### 🗓 Day 2 – Collection in Java  
+**(Date: 20-Jan-2026)**
+
+- Studied Java Collections 
+- Solved practice problems based on generics.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+
+| [Collection] | [view codes](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionProblems/src/com/collection) |
+
+---
+
+### 🗓 Day 2 – Streams in Java  
+**(Date: 20-Jan-2026)**
+
+- Studied Java Streams 
+- Solved practice problems based on generics.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+
+| [Streams] | [view codes](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionProblems/src/com/streams) |
+
 
 ```
 ```
