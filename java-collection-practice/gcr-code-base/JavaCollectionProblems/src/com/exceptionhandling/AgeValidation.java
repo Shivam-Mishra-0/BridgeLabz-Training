@@ -1,5 +1,6 @@
 package com.exceptionhandling;
 
+// Exception : InvalidAgeException.
 public class AgeValidation {
 
     static void validateAge(int age) throws InvalidAgeException {
