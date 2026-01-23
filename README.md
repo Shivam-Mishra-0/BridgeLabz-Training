@@ -1,8 +1,8 @@
 ## 📘 DSA(Data Structure and Algorithms) 
 
-## 📂 Project Structure
-
-```
+## 📂 Project Structure 
+ 
+``` 
 BridgeLabz-Training/
 │
 ├── dsa-practice/ 
