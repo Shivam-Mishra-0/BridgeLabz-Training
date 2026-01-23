@@ -20,7 +20,7 @@
 
 ```
  
-# 📅 Week 1: Git, GitHub & Java Programming Fundamentals
+# 📅 Week 1: Git, GitHub & Java Programming Fundamentals 
 ## 📘 Section A : Training Learning Progress
 
 ### 🗓 Day 1 – Git & GitHub Setup 
