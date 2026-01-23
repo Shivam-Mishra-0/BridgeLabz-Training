@@ -46,8 +46,8 @@
 
 ---
 
-### 🗓 Day 2 – Streams in Java  
-**(Date: 20-Jan-2026)**
+### 🗓 Day 3 – Streams in Java  
+**(Date: 22-Jan-2026)**
 
 - Studied Java Streams 
 - Solved practice problems based on generics.
@@ -57,17 +57,27 @@
 
 | [Streams] | [view codes](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionProblems/src/com/streams) |
 
+---
 
-```
-```
+### 🗓 Day 4 – Exception Handling in Java  
+**(Date: 24-Jan-2026)**
+
+- Studied Java Exception Handling 
+- Solved practice problems based on generics.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+
+| [Streams] | [view codes](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collection-practice/java-collection-practice/gcr-code-base/JavaCollectionProblems/src/com/exceptionhandling) |
+
 ---
 ---
 
 # Section B : scenario-based-codebase Practice Problem
 ---
 ```
-```
 
+```
 ---
 --- 
 
