@@ -7,7 +7,7 @@
  |_____/|_____//_/      \_\ |_|    |_|  \__,_|\___|\__|_|\___\___|
 ```
 
-## 📂 Project Structure
+## 📂 Project Structure 
 
 ```
 BridgeLabz-Training/
