@@ -1,4 +1,11 @@
-## 📘 DSA(Data Structure and Algorithms) 
+```
+  _____   _____     _        _____                _   _             
+ |  __ \ / ____|   /  \     |  __ \              | | (_)            
+ | |  | | (___    / /\ \    | |__) | __ __ _  ___| |_ _  ___ ___    
+ | |  | |\___ \  / /__\ \   |  ___/| '__/ _` |/ __| __| |/ __/ _ \   
+ | |__| |____) |/  ____ \\  | |    | | | (_| | (__| |_| | (_|  __/   
+ |_____/|_____//_/      \_\ |_|    |_|  \__,_|\___|\__|_|\___\___|
+```
 
 ## 📂 Project Structure
 
@@ -236,15 +243,15 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
   
 - 🔗 **Code Links:**
   
-👉 | [Problem 11] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/eventmanager) |
+👉 | [Problem 14] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/eventmanager) |
 
-👉 | [Problem 12] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/examcell) |
+👉 | [Problem 15] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/examcell) |
 
-👉 | [Problem 13] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/robowarehouseapplication) |
+👉 | [Problem 16] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/robowarehouseapplication) |
 
-👉 | [Problem 14] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/cinemahouse) |
+👉 | [Problem 17] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/cinemahouse) |
 
-👉 | [Problem 15] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/cropmonitor) |
+👉 | [Problem 18] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/cropmonitor) |
 
 ---
 
@@ -252,18 +259,18 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 **(Date: 19-Jan-2026)**
 - Solved **3** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
-- Problem 16 : "ArtExpo – Sort Artists by Registration Time (Insertion Sort)"
-- Problem 17 : "FleetManager – Vehicle Maintenance Scheduler (Merge Sort)"
-- Problem 18 : "IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)"
+- Problem 19 : "ArtExpo – Sort Artists by Registration Time (Insertion Sort)"
+- Problem 20 : "FleetManager – Vehicle Maintenance Scheduler (Merge Sort)"
+- Problem 21 : "IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)"
 - Committed and pushed all solutions.
   
 - 🔗 **Code Links:**
   
-👉 | [Problem 16] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/artexpoapplication) |
+👉 | [Problem 19] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/artexpoapplication) |
 
-👉 | [Problem 17] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/fleetmanagerapplication) |
+👉 | [Problem 20] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/fleetmanagerapplication) |
 
-👉 | [Problem 18] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/icecreamrushapp) |
+👉 | [Problem 21] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/icecreamrushapp) |
 
 ---
 
@@ -271,18 +278,18 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 **(Date: 20-Jan-2026)**
 - Solved **3** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
-- Problem 19 : "SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)"
-- Problem 20 : "EduResults – Rank Sheet Generator (Merge Sort)"
-- Problem 21 : "FlashDealz – Product Sorting by Discount (Quick Sort)"
+- Problem 22 : "SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)"
+- Problem 23 : "EduResults – Rank Sheet Generator (Merge Sort)"
+- Problem 24 : "FlashDealz – Product Sorting by Discount (Quick Sort)"
 - Committed and pushed all solutions.
   
 - 🔗 **Code Links:**
   
-👉 | [Problem 19] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/smartlibraryapp) |
+👉 | [Problem 22] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/smartlibraryapp) |
 
-👉 | [Problem 20] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/eduresults) |
+👉 | [Problem 23] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/eduresults) |
 
-👉 | [Problem 21] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/flashdealz) |
+👉 | [Problem 24] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/flashdealz) |
 
 ---
 
@@ -290,18 +297,18 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 **(Date: 21-Jan-2026)**
 - Solved **3** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
-- Problem 22 : "FitnessTracker – Daily Step Count Ranking (Bubble Sort)"
-- Problem 23 : "MovieTime – Theater Show Listings (Insertion Sort)"
-- Problem 24 : "FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)"
+- Problem 25 : "FitnessTracker – Daily Step Count Ranking (Bubble Sort)"
+- Problem 26 : "MovieTime – Theater Show Listings (Insertion Sort)"
+- Problem 27 : "FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)"
 - Committed and pushed all solutions.
   
 - 🔗 **Code Links:**
   
-👉 | [Problem 22] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/fitnesstracker) |
+👉 | [Problem 25] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/fitnesstracker) |
 
-👉 | [Problem 23] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/movietime) |
+👉 | [Problem 26] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/movietime) |
 
-👉 | [Problem 24] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/foodfest) |
+👉 | [Problem 27] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/foodfest) |
 
 ---
 
@@ -309,18 +316,18 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 **(Date: 23-Jan-2026)**
 - Solved **3** scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
-- Problem 25 : "GamerZone – High Score Ranking System (Quick Sort)"
-- Problem 26 : "TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)"
-- Problem 27 : "MedWarehouse – Sorting Medicines by Expiry (Merge Sort)"
+- Problem 28 : "GamerZone – High Score Ranking System (Quick Sort)"
+- Problem 29 : "TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)"
+- Problem 30 : "MedWarehouse – Sorting Medicines by Expiry (Merge Sort)"
 - Committed and pushed all solutions.
   
 - 🔗 **Code Links:**
   
-👉 | [Problem 25] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/gamezone) |
+👉 | [Problem 28] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/gamezone) |
 
-👉 | [Problem 26] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/tailorshopapplication) |
+👉 | [Problem 29] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/tailorshopapplication) |
 
-👉 | [Problem 27] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/medwarehouse) |
+👉 | [Problem 30] | [view code](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/medwarehouse) |
 
 ---
 ---
