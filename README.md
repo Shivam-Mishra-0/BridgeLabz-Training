@@ -30,7 +30,7 @@
 - Set up GitHub repository.
 
 ```
-BridgeLabz-Training/
+BridgeLabz-Training/ 
 │
 ├── 📁 core-java-practice/ 
 │   ├── 📁 gcr-codebase/
