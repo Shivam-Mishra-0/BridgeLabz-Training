@@ -1,4 +1,4 @@
-package com.annotations.markanoldmethod;
+package com.annotation.markanoldmethod;
 
 public class DeprecatedDemo {
     public static void main(String[] args) {
