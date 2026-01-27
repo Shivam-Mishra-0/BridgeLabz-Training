@@ -20,666 +20,262 @@
 
 ```
  
-# 📅 Week 1: Git, GitHub & Java Programming Fundamentals 
-## 📘 Section A : Training Learning Progress
+# BridgeLabz Training Journey
 
-### 🗓 Day 1 – Git & GitHub Setup 
-**(Date: 15-Dec-2025)**
+> A comprehensive Java programming training repository covering Core Java fundamentals to Object-Oriented Programming concepts.
 
-- Installed and configured Git.
-- Set up GitHub repository.
+##  Training Overview
+
+This repository documents my learning journey at BridgeLabz, spanning from **December 15, 2025** to present. The training is organized into structured branches covering different aspects of Java development.
+
+---
+
+##  Repository Branches
+
+### 🔹 [core-java-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice)
+**Week 1** : Fundamentals of Java Programming
+
+### 🔹 [java-oops-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice)
+**Week 2** : Object-Oriented Programming
+
+### 🔹 [dsa-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice)
+**Week 3** : Data Structures & Algorithms
+
+### 🔹 [java-collections-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice)
+**Week 4** : Collections Framework in Java
+
+---
+
+## 📂 Project Structure
 
 ```
-BridgeLabz-Training/ 
+BridgeLabz-Training/
 │
-├── 📁 core-java-practice/ 
+├── 📁 core-java-practice/
 │   ├── 📁 gcr-codebase/
-│   │   ├── 📁 programming-prerequisites/
-│   │   ├── 📁 programming-elements/
-│   │   ├── 📁 control-flows/
-│   │   ├── 📁 arrays/
-│   │   ├── 📁 methods/
-│   │   ├── 📁 strings/
-│   │   └── 📁 extras/
-│   ├── 📁 leet-code-codebase/
-│   └── 📁 scenario-based-codebase/
+│   │   ├── 📁 prerequisites/          # Basic Java programs 
+│   │   ├── 📁 programming-elements/   # Java programming elements 
+│   │   ├── 📁 control-flows/          # If-else, loops, switch 
+│   │   ├── 📁 arrays/                 # Array operations
+│   │   ├── 📁 methods/                # Method practices
+│   │   ├── 📁 strings/                # String manipulation 
+│   │   └── 📁 Extras/                 # Built-in methods
+|   |
+│   ├── 📁 leet-code-codebase/         # LeetCode solutions
+│   └── 📁 scenario-based-codebase/    # Real-world problems
 │
-├── 📁 java-oops-practice/ 
+├── 📁 java-oops-practice/
 │   ├── 📁 gcr-codebase/
-│   │   └── 📁 JavaOopsConcepts/
+│   │  └── 📁 JavaOopsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               ├── 📁 classandobject/
-│   │               ├── 📁 constructor/
-│   │               ├── 📁 finalandstatic/
-│   │               ├── 📁 objectmodeling/
-│   │               ├── 📁 inheritance/
-│   │               └── 📁 encapsulation/
-│   ├── 📁 leet-code-codebase/
-│   └── 📁 scenario-based-codebase/
-│
+│   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
+│   │               ├── 📁 constructor/       # Constructor, access modifiers
+│   │               ├── 📁 finalandstatic/    # Keywords, instance vs class members
+│   │               ├── 📁 objectmodeling/    # Diagrams, relationships, communication
+│   │               ├── 📁 inheritance/       # Types, method overriding, & access modifiers
+│   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
 ├── 📁 dsa-practice/
 │   ├── 📁 gcr-codebase/
-│   │   └── 📁 JavaDsaPractice/
+│   │  └── 📁 DSAConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
-│   │               ├── 📁 linkedlist/
-│   │               ├── 📁 stacksandqueues/
-│   │               ├── 📁 hashmapsandfunctions/
-│   │               └── 📁 sorting/
+│   │               ├── 📁 linkedlists/       # singly, doubly & circular
+│   │               ├── 📁 stacks/            # Last-In-First-Out (LIFO)
+│   │               ├── 📁 queues/            # First-In-First-Out (FIFO)
+│   │               ├── 📁 hashmaps/          # Key-Value pairs
+│   │               ├── 📁 sorting/           # Sorting algorithms
+│   │               ├── 📁 searching/         # Searching algorithms
+│   │               └── 📁 analysis/          # Runtime Analysis & Big-O Notation
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+└── 📁 java-collections-practice/
+│   ├── 📁 gcr-codebase/
+│   │  └── 📁 CollectionsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 generics/          # Generic classes, methods, wildcards
+│   │               ├── 📁 listinterface/     # List interface and implementations
+│   │               ├── 📁 setinterface/      # Set interface and implementations
+│   │               ├── 📁 queueinterface/    # Queue & Deque interface examples
+│   │               ├── 📁 mapinterface/      # Map interface and implementations
+│   │               ├── 📁 examples/          # Hands-on example programs
+│   │               ├── 📁 streams/           # I/O streams, buffering, and serialization
+│   │               ├── 📁 exceptionhandling/ # Checked, unchecked, custom exceptions, try-with-resources
+│   │               ├── 📁 regex/             # Pattern matching, validation rules, groups & quantifiers
+│   │               ├── 📁 junit/             # Unit testing, assertions, test lifecycle, test cases
+│   │               ├── 📁 reflection/        # Runtime inspection, dynamic invocation, proxies
+│   │               └── 📁 annotations/       # Built-in & custom annotations, processors
+|   |
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
-│
-└── README.md 
+|
+└── README.md
 ```
+---
 
-- Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
-- Successfully pushed files to the remote repository.
+##  Learning Milestones
 
-### 🗓 Day 2 – Git Practice & Basic Java Programs  
-**(Date: 16-Dec-2025)**
+### **Week 1 : Core Java Programming**
 
-- Practiced Git workflow to understand commits and version control.
-- Solved very basic Java programs to understand syntax and structure.
-- Practiced adding, committing, and pushing Java files to GitHub.
+| Day |     Date    | Topic                           | Coverage                              |
+|-----|-------------|---------------------------------|---------------------------------------|
+|   1 | 15-Dec      | Git & GitHub Setup              | Repository setup, Git workflow        |
+|   2 | 16-Dec      | Java Basics                     | Basic syntax, prerequisites           |
+|   3 | 17-Dec      | Programming Elements            | Data types, operators, input handling |
+|   4 | 18-Dec      | Control Flow                    | Conditions, loops, logical problems   |
+|   5 | 19-Dec      | Arrays                          | 1D & 2D arrays, traversal             |
+|   6 | 20-Dec      | Methods                         | Method declaration, parameters        |
+|   7 | 22-Dec      | Strings                         | String creation, methods              |
+|   8 | 23-Dec      | Built-in Functions & Exceptions | Math, Random, Date-Time, exceptions   |
+
+### **Week 2 : Object-Oriented Programming**
+
+| Day |     Date    | Topic                          | Coverage                               |
+|-----|-------------|--------------------------------|----------------------------------------|
+|   9 | 26-Dec      | OOP Basics                     | Procedural vs OOP, fundamentals        |
+|  10 | 27-Dec      | Constructors & Static Concepts | Constructors, access modifiers, static |
+|  11 | 29-Dec      | `this`, `final`, `static`      | Keywords, instance vs class members    |
+|  12 | 30-Dec      | Object Modeling                | Diagrams, relationships, communication |
+|  13 | 31-Dec      | Inheritance & Types            | Inheritance types and  access modifiers|
+|  14 | 01-Jan      | Encapsulation & Polymorphism   | Data hiding, polymorphism, interfaces  |
+
+### **Week 3 : Data Structures & Algorithms**
+
+| Day |     Date    | Topic                          | Coverage                               |
+|-----|-------------|--------------------------------|----------------------------------------|
+|  15 | 02-Jan      | DSA Basics & LinkedList        | DSA concepts, LinkedList and its types |
+|  16 | 03-Jan      | Stack, Queue & HashMap         | Core operations and basic use cases    |
+|  17 | 05-Jan      | Sorting Algorithms             | Sorting algorithms & comparison logic  |
+|  18 | 06-Jan      | Searching & I/O utilities      | Linear & Binary Search and FileReader  |
+|  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
+|  20 | 13-Jan      | Trees & Binary Search Trees    | Basics, types and CRUD operations      |
+|  21 | 15-Jan      | Graphs (DFS & BFS)             | Basics and traversal algorithms        |
+
+### **Week 4 : Collections Framework in Java**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
+| 23  | 17-Jan      | Collections Framework          | Collection hierarchy, List, Set, Queue, Map, implementations        |
+| 24  | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                  |
+| 25  | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested      |
+| 26  | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions     |
+| 27  | 22-Jan      | Annotations & Reflection       | Built-in & custom annotations, runtime inspection, proxies          |
 
 ---
 
-### 🗓 Day 3 – Programming Elements in Java  
-**(Date: 17-Dec-2025)**
+##  Key Concepts Covered
 
-- Studied Java programming elements:
-  - Variables and data types
-  - Operators
-  - User input and output
-- Solved practice problems based on programming elements.
-- Committed and pushed solutions to the repository.
+### Core Java (core-java-practice)
+-  **Fundamentals**: Variables, data types, operators
+-  **Control Structures**: If-else, loops, switch-case
+-  **Arrays**: Single & multi-dimensional arrays
+-  **Methods**: Parameters, return types, overloading
+-  **Strings**: Manipulation, comparisons, exceptions
+-  **Problem Solving**: LeetCode challenges, real-world scenarios
 
----
+### Object-Oriented Programming (java-oops-practice)
+-  **Classes & Objects**: Creating and instantiating objects
+-  **Encapsulation**: Data hiding and access modifiers
+-  **Constructors**: Default, parameterized, overloading
+-  **Abstraction**: Interface-based design patterns
+-  **Inheritance**: Parent and Chlid relations
+-  **Polymorphism**: Method overloading and method overriding
+-  **Problem Solving**: LeetCode challenges, real-world scenarios
 
-### 🗓 Day 4 – Control Flow & Logical Constructs  
-**(Date: 18-Dec-2025)**
+### Data Structures & Algorithms (dsa-practice)
+- **DSA Fundamentals**: Time & space complexity, basic problem analysis
+- **Linked Lists**: Singly, doubly, and circular linked lists
+- **Stacks**: LIFO principle, push/pop operations, stack applications
+- **Queues**: FIFO principle, enqueue/dequeue operations, queue variants
+- **HashMaps**: Key-value storage, hashing concept, basic operations
+- **Sorting**: Basic sorting algorithms and comparison-based sorting concepts
+- **Searching**: Linear Search and Binary Search algorithms
+- **String Utilities**: `StringBuilder` and `StringBuffer` for mutable strings
+- **File Handling**: Reading input using `FileReader` and `InputStreamReader`
+- **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation
+- **Trees & BST**: Tree terminology, traversal techniques, Binary Search Tree operations, and real-world applications
+- **Graphs (DFS & BFS)**: Graph representations, DFS, BFS, and traversal-based problem solving
 
-- Studied logical constructs in Java:
-  - if, if-else
-  - switch statement
-  - ternary operator
-- Practiced iteration statements:
-  - for loop
-  - while loop
-  - do-while loop
-- Used `break` and `continue` statements.
-- Solved logical problems such as:
-  - Factorial
-  - Prime number check
-- Committed and pushed solutions to the repository.
-
----
-
-### 🗓 Day 5 – Arrays & Basic Problem Solving  
-**(Date: 20-Dec-2025)**
-
-- Studied arrays in Java:
-  - Single-dimensional arrays
-  - Multi-dimensional arrays
-- Practiced array traversal and operations.
-- Solved problems related to:
-  - Finding missing elements
-  - Basic array-based logic
-- Strengthened logical thinking using array problems.
-- Committed and pushed solutions to the repository.
-
----
-
-### 🗓 Day 6 – Java Methods  
-**(Date: 22-Dec-2025)**
-
-- Studied Java methods:
-  - Method declaration
-  - Method calling
-  - Parameter passing
-- Practiced reusable logic using methods.
-- Committed and pushed solutions to the repository.
-
----
-
-### 🗓 Day 7 – String manipulation 
-**(Date: 22-Dec-2025)**
-
-- Studied String concepts:
-  - String creation
-  - String methods
-  - Character processing
-- Implemented programs for string manipulation.
-- Committed and pushed solutions to the repository.
-
----
-
-### 🗓 Day 8 – Built-in Functions & Extra Practice  
-**(Date: 23-Dec-2025)**
-
-- Practised Java built-in functions.
-- Implemented utility programs such as:
-  - Temperature Converter
-- Improved understanding of:
-  - Input handling
-  - Type conversion
-- Organised programs into proper folders.
-- Committed and pushed all changes successfully.
-
----
----
-
-## 🧩 Section B : Scenario-Based Problems Progress
-
-### 🗓 Day 9 – Scenario-Based problems  
-**(Date: 24-Dec-2025)**
-
-- Solved scenario-based problems.
-- 2 problems
-- Organised programs into proper folders.
-- Committed and pushed all changes successfully.
-
----
-
-### 🗓 Day 11 – Scenario-Based problems  
-**(Date: 26-Dec-2025)**
-
-- Solved scenario-based problems.
-- 3 problems
-- Organised programs into proper folders.
-- Committed and pushed all changes successfully.
-
----
-
-### 🗓 Day 14 – Scenario-Based problems  
-**(Date: 29-Dec-2025)**
-
-- Solved scenario-based problems.
-- 5 problems
-- Organised programs into proper folders.
-- Committed and pushed all changes successfully.
-
----
-
-### 🗓 Day 15 – Scenario-Based problems 
-**(Date: 30-Dec-2025)**
-
-- Solved scenario-based problems.
-- 5 problems
-- Organised programs into proper folders.
-- Committed and pushed all changes successfully.
-
----
----
-
-## 🧮 Section C : LeetCode-based Problems Progress
-
-### 🗓 Day 9 – LeetCode problems  
-**(Date: 24-Dec-2025)**
-
-- Solved LeetCode problems.
-- 5 problems
-- Organised programs into proper folders.
-- Committed and pushed all changes successfully.
-
----
-
-### 🗓 Day 13 – LeetCode problems  
-**(Date: 28-Dec-2025)**
-
-- Pushed LeetCode problems solved over four days.
-- 25 problems of four days.
-- Organised programs into proper folders.
-- Committed and pushed all changes successfully.
-
----
-
-### 🗓 Day 15 – LeetCode problems  
-**(Date: 30-Dec-2025)**
-
-- Solved LeetCode problems.
-- 5 problems
-- Organised programs into proper folders.
-- Committed and pushed all changes successfully.
+### Collections Framework (java-collections-practice)
+- **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure
+- **Collections Overview**: Purpose and benefits of Java Collections Framework
+- **Hierarchy**: `Iterable`, `Collection`, `List`, `Set`, `Queue`, and `Map`
+- **List Implementations**: `ArrayList`, `LinkedList`, `Vector`
+- **Set Implementations**: `HashSet`, `LinkedHashSet`, `TreeSet`
+- **Map Implementations**: `HashMap`, `LinkedHashMap`, `TreeMap`, `Hashtable`
+- **Queue & Deque**: `PriorityQueue`, `ArrayDeque`
+- **Hands-on Practice**: CRUD, iteration, ordering, and performance examples
+- **I/O Streams**: Byte & character streams, buffering, object serialization, and efficient file handling
+- **Exception Handling**: Checked vs unchecked exceptions, `try-catch-finally`, multiple and nested catch blocks, `throw` vs `throws`, custom exceptions, try-with-resources
+- **Regex & JUnit Testing**: Pattern matching, validation rules, groups, quantifiers, unit tests, assertions, test lifecycle
+- **Reflection**: Runtime class inspection, private member access, dynamic invocation, constructors, proxies, annotation processing 
+- **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage 
 
 ---
 
 ## 🔗 Quick Links
 
 ### `core-java-practice` :
-| 📌 Topic | 🔗 Access Link |
-| :--- | :--- |
-| **Prerequisites** | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Program%20Prerequisites) |
-| **Programming Elements** | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements) |
-| **Control Flows** | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow) |
-| **Arrays** | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays) |
-| **Methods** | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods) |
-| **Strings** | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings) |
-| **Built-In Functions** | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/built-in-function) |
-| **Scenario Based Codebase** | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) |
-| **LeetCode Codebase** | [View Codebase](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase) |
----
----
+- 📌 [Prerequisites](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-requisites)
+- 📌 [Control Flows](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+- 📌 [Programming Elements](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+- 📌 [Arrays](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+- 📌 [Methods](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+- 📌 [Strings](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+- 📌 [Built-In Functions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+- 📌 [LeetCode Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+- 📌 [Scenario-Based Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
-# 📅 Week 2: Java Programming Fundamentals and Object oriented concepts
-## 📘 Section A : Training Learning Progress
-### 🗓 Day 1 – Object and Classes  
-**(Date: 26-Dec-2025)**
+### `java-oops-practice` :
+- 📌 [Classes and Objects](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+- 📌 [Constructors ](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)
+- 📌 [this, final, static, instanceof](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/finalandstatic)
+- 📌 [Object Modeling & Relations](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
+- 📌 [Inheritance & Types](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+- 📌 [Encapsulation & Polymorphism](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+- 📌 [LeetCode Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/leet-code-codebase)
+- 📌 [Scenario-Based Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
 
-- Learned the working of classes and objects in java
-- Solved Object and Class based problems, level 1 and 2.
-- Organized programs into proper folders.
-- Committed and pushed all changes successfully.
+### `dsa-practice` :
+- 📌 [Linked Lists](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlists)
+- 📌 [Stacks](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/stacks)
+- 📌 [Queues](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/queues)
+- 📌 [HashMaps](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmaps)
+- 📌 [Sorting Algorithms](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
+- 📌 [Searching Algorithms, String & I/O utilities](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/searching)
+- 📌 [Time & Space Complexity Analysis](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/analysis)
+- 📌 [LeetCode Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/leet-code-codebase)
+- 📌 [Scenario-Based Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/ScenarioPracticeDSA/src/com)
 
----
-
-### 🗓 Day 2 – Constructors  
-**(Date: 27-Dec-2025)**
-
-- Learned the working of Constructors in java
-- (Parameterised, Non-parameterised, and Copy constructor)
-- Solved Constructor based problems from level 1.
-- Organized programs into proper folders.
-- Committed and pushed all changes successfully.
-
----
-
-### 🗓 Day 3 – this, final & static in Java
-**(Date: 29-Dec-2025)**
-
-- Studied Java keywords:
-   - this, static, and final
-- Understood the purpose and usage of each keyword.
-- Studied access modifiers in Java.
-- Learned instance vs class (static) variables and methods.
-- Committed and pushed all work.
-
----
-
-### 🗓 Day 4 – Object Modeling & Real-World Design
-**(Date: 30-Dec-2025)**
-
-- Studied classes and objects and object modeling:
-  - Class Diagram
-  - Object Diagrams
-  - Sequence Diagrams
-- Designed classes in Plain Old Java Object (POJO)
-- Learned object relationships:
-  - Association
-  - Aggregation
-  - Composition
-- Committed and pushed all work.
+### `java-collections-practice` :
+- 📌 [Generics](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/generics)
+- 📌 [List Interface](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/listinterface)
+- 📌 [Set Interface](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/setinterface)
+- 📌 [Queue Interface](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/queueinterface)
+- 📌 [Map Interface](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/mapinterface)
+- 📌 [Example Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/examples)
+- 📌 [I/O Streams](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/streams)
+- 📌 [Exception Handling](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/exceptionhandling)
+- 📌 [Regex - Regular Expressions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/regex)
+- 📌 [JUnit Testing](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/junit)
+- 📌 [Reflection](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/reflection)
+- 📌 [Annotations](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/annotations)
+- 📌 [Scenario-Based Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/scenario-based-codebase/ScenarioPracticeCollections/src/com)
 
 ---
 
-### 🗓 Day 5 – Inheritance & Types  
-**(Date: 31-Dec-2025)**
+## 🎓 Learnings & Best Practices
 
-Learned Inheritance in Java and its role in OOPS.
-
-**Topics Covered:**
-- Practiced Single, Multilevel, Hierarchical & Hybrid Inheritance
-- Implemented method overriding, super() constructor calls, and polymorphism
-- Understood access modifiers and their behavior in inheritance
-- Modeled real-world hierarchies (Animal, Employee, Vehicle, Bank, Restaurant)
-- Committed and pushed all work.
-
+-  **Code Organization**: Following industrial standards
+-  **Naming Conventions**: Camel case, Pascal case and meaningful names
+-  **Version Control**: Regular commits with descriptive messages
+-  **Problem-Solving**: Breaking complex problems into smaller tasks
+-  **Documentation**: Clear comments and README files
 ---
-
-### 🗓 Day 6 – Encapsulation, Polymorphism, Interface and Abstract Class  
-**(Date: 01-Jan-2026)**
-
-Learned and practiced Encapsulation along with scenario-based OOPS problem solving.
-
-**Topics Covered:**
-- Data hiding using private fields
-- Controlled access via getters & setters
-- Validation logic inside methods
-- Securing sensitive data (e.g., account balance, user details)
-- Improved code safety, flexibility, and maintainability
-- Example Implemented:
-   - BankAccount with validated deposit & withdrawal operations
-- Committed and pushed all work.
-
----
----
-
-## 🧩 Section B : Scenario-Based Problems Progress
----
-
-### 🗓 Day 5 – Scenario-Based Practice  
-**(Date: 02-Jan-2026)**
-
-- Solved **5** scenario-based problems.
-- Focused on logical thinking and real-world problem solving.
-- Committed and pushed all solutions.
-  
----
-
-### 🗓 Day 6 – Scenario-Based Practice  
-**(Date: 03-Jan-2026)**
-
-- Solved **2** scenario-based problems.
-- Focused on logical thinking and real-world problem solving.
-- Committed and pushed all solutions.
-
----
-
-### 🗓 Day 7 – Scenario-Based Practice  
-**(Date: 05-Jan-2026)**
-
-- Solved **2** scenario-based problems.
-- Focused on logical thinking and real-world problem solving.
-- Committed and pushed all solutions.
-
----
-
-### 🗓 Day 8 – Scenario-Based Practice  
-**(Date: 06-Jan-2026)**
-
-- Solved **1** scenario-based problems.
-- Focused on logical thinking and real-world problem solving.
-- "EduMentor – Personalized Learning Platform"
-- Committed and pushed the solutions
-
----
-
-### 🗓 Day 9 – Scenario-Based Practice  
-**(Date: 07-Jan-2026)**
-
-- Solved **3** scenario-based problems.
-- Focused on logical thinking and real-world problem solving.
-- "FitTrack – Your Personal Fitness Tracker"
-- "PetPal – Virtual Pet Care App"
-- "EventEase – Event Management Platform"
-- Committed and pushed the solutions
-
----
-
-### 🗓 Day 10 – Scenario-Based Practice  
-**(Date: 08-Jan-2026)**
-
-- Solved **4** scenario-based problems.
-- Focused on logical thinking and real-world problem solving.
-- "LoanBuddy – Loan Approval Automation"
-- "BookBazaar – Digital Bookstore System"
-- "ParkEase – Smart Parking Management System"
-- "MediStore – Pharmacy Inventory & Sales System"
-- Committed and pushed the solutions
-
----
-
-### 🗓 Day 11 – Scenario-Based Practice  
-**(Date: 09-Jan-2026)**
-
-- Solved **1** scenario-based problems.
-- Focused on logical thinking and real-world problem solving.
-- "TourMate – Travel Itinerary Planner"
-- Committed and pushed the solutions
-
----
-
-### 🗓 Day 12 – Scenario-Based Practice  
-**(Date: 10-Jan-2026)**
-
-- Solved **1** scenario-based problems.
-- Focused on logical thinking and real-world problem solving.
-- "Artify – Digital Art Marketplace"
-- Committed and pushed the solutions
-
----
-
-### 🗓 Day 13 – Scenario-Based Practice  
-**(Date: 12-Jan-2026)**
-
-- Solved **2** scenario-based problems.
-- Focused on logical thinking and real-world problem solving.
-- "FoodLoop – Restaurant Ordering System"
-- "SkillForge – Online Learning Portal"
-- Committed and pushed the solutions
-
----
-
-### 🗓 Day 14 – Scenario-Based Practice  
-**(Date: 14-Jan-2026)**
-
-- Solved **3** scenario-based problems.
-- Focused on logical thinking and real-world problem solving.
-- "HomeNest – Smart Home Device Manager"
-- "BudgetWise – Personal Finance Tracker"
-- "GameBox – Mobile Game Distribution Platform"
-- Committed and pushed the solutions
-
----
----
-
-## 🧮 Section C : LeetCode-based Problems Progress
-
-### 🗓 Day 7 – LeetCode-based Practice  
-**(Date: 04-Jan-2026)**
-
-- Practiced **3** classes and objects based problems.
-- Created driver-main method & taken user inputs.
-- Committed and pushed all solutions.
-
----
-
-### 🗓 Day 8 – LeetCode-based Practice  
-**(Date: 05-Jan-2026)**
-
-- Practiced **7** constructors and final & static based problems.
-- Created driver-main method & taken user inputs.
-- Committed and pushed all solutions.
-
----
-
-### 🗓 Day 9 – LeetCode-based Practice  
-**(Date: 07-Jan-2026)**
-
-- Practiced **1** constructors and final & static based problems.
-- Created driver-main method & taken user inputs.
-- Committed and pushed all solutions.
-
----
-
-### 🗓 Day 10 – LeetCode-based Practice  
-**(Date: 12-Jan-2026)**
-
-- Practiced **2** constructors and final & static based problems.
-- Created driver-main method & taken user inputs.
-- Committed and pushed all solutions.
-
----
-
-### 🗓 Day 11 – LeetCode-based Practice  
-**(Date: 14-Jan-2026)**
-
-- Practiced **2** constructors and final & static based problems.
-- Created driver-main method & taken user inputs.
-- Committed and pushed all solutions.
-
----
-
-## 🔗 Quick Links
-
-| 📂 Java OOPs Practice |
-| :--- |
-| 📌 [Classes and Objects](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/classandobject) |
-| 📌 [Constructors](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/constructor/level01) |
-| 📌 [this, final, static, instanceof](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/inbuiltfunctions) |
-| 📌 [Object Modeling & Relations](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/objectmodeling) |
-| 📌 [Inheritance & Types](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/inheritance) |
-| 📌 [Encapsulation & Polymorphism](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcept/src/com/encapsulation) |
-| 📌 [LeetCode Solutions](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-base) |
-| 📌 [Scenario-Based Solutions](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenerioBasedProblem/src/com) |
-
----
----
-
-# 📅 Week 3: Data Structure and Algorithm
-## 📘 Section A : Training Learning Progress
-
-### 🗓 Day 1 – Data Structures Overview
-**(Date: 02-Jan-2026)**  
-
-- Learned fundamentals of **Data Structures**
-- Explored **Linear & Non-Linear Data Structures**
-- Focused on **Linked Lists**:
-  - Singly Linked List
-  - Doubly Linked List
-  - Circular Linked List
-- Understood use cases, advantages, and limitations
-- Implemented basic real-world linked list problems
-
----
-
-### 🗓 Day 2 – Stacks, Queues & Hashing
-**(Date: 03-Jan-2026)**  
-
-- Stack (LIFO): recursion, undo/redo, parenthesis check
-- Queue (FIFO): BFS, scheduling, task processing
-- Deque / PriorityQueue: optimized & priority-based access
-- HashMap: key–value storage, O(1) average lookup
-- Hashing: bucket mapping, collision handling
-- Practiced: balanced parentheses, BFS-style queues, sliding windows, hash-based lookups
-- Focus: optimized O(n) solutions & clean code
-
----
-
-### 🗓 Day 3 – Sorting Algorithm
-**(Date: 04-Jan-2026)**  
-
-Practiced fundamental **sorting techniques** to organize data efficiently:
-
-- **Bubble Sort** – Adjacent comparison & swapping
-- **Insertion Sort** – Build sorted array incrementally
-- **Selection Sort** – Select minimum & swap
-- **Merge Sort** – Divide & Conquer, stable sorting
-- **Quick Sort** – Pivot-based partitioning
-- **Heap Sort** – Max Heap based sorting
-- **Counting Sort** – Frequency-based non-comparison sort
-
----
-
-### 🗓 Day 4 – Java I/O Streams, String Optimization & Search Algorithms  
-**(Date: 06-Jan-2026)**  
-
-Practiced **Java input/output streams** and **efficient string manipulation** for real-world applications:
-
-- **File-Based Searching**
-  - Read large files using BufferedReader
-  - Extract & search words using linear and binary search
-
-- **String Optimization**
-  - String vs StringBuilder vs StringBuffer
-  - Performance & thread-safety comparison
-  - 
-- **Linear Search**
-  - Array & text-based searching
-  - Best for unsorted or small datasets
-
-- **Binary Search**
-  - Rotated arrays, peak elements, 2D matrices
-  - First/last occurrence in sorted data
-
----
-
-### 🗓 Day 5  –  Runtime Analysis & Big-O Notation   
-**(Date: 09-Jan-2026)**  
- 
-Learned how to **measure algorithm efficiency** based on time and space growth.
-
-####  Topics Covered
-- **Big-O Notations:** O(1), O(log N), O(N), O(N log N), O(N²), O(2ⁿ), O(N!)
-- **Time Complexity:** Best, Average, Worst case analysis
-- **Space Complexity:** O(1) vs O(N)
-- **Algorithm Comparison:** Linear Search, Binary Search, Bubble Sort, Merge Sort, Quick Sort
-
-**Focus:**  
-- Choosing efficient algorithms  
-- Reducing nested loops  
-- Optimizing time & space usage
-
----
-
-## 🧩 Section B : Scenario-Based Problems Progress
----
-
-### 🗓 Day 1 – Scenario-Based Practice  
-**(Date: 12-Jan-2026)**
-
-- Solved **3** scenario-based problems.
-- Focused on logical thinking and real-world problem solving.
-- "BookShelf – Library Organizer (HashMap + Linked List)"
-- "BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)"
-- "AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)"
-- Committed and pushed all solutions.
-
----
-
-### 🗓 Day 1 – Scenario-Based Practice  
-**(Date: 15-Jan-2026)**
-
-- Solved **4** scenario-based problems.
-- Focused on logical thinking and real-world problem solving.
-- "CallCenter – Customer Queue Manager (Queue + HashMap)"
-- "TrainCompanion – Compartment Navigation System (Doubly Linked List)"
-- "TextEditor – Undo/Redo Functionality (Stack)"
-- "TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)"
-- Committed and pushed all solutions.
-
----
-
-### 🗓 Day 2 – Scenario-Based Practice  
-**(Date: 16-Jan-2026)**
-
-- Solved **3** scenario-based problems.
-- Focused on logical thinking and real-world problem solving.
-- "SmartCheckout – Supermarket Billing Queue (Queue + HashMap)"
-- "ParcelTracker – Delivery Chain Management (Singly Linked List)"
-- "ExamProctor – Online Exam Review System (Stack + HashMap + Functions)"
-- Committed and pushed all solutions.
-
----
-
-
-## 🧩 Section C : Leetcode-codebase Problems Progress
----
-
-### 🗓 Day 1 – Leet-code-codebase Practice  
-**(Date: 15-Jan-2026)**
-
-- Solved **2** leet-code-codebase problems.
-- Created driver-main method & taken user inputs.
-- Committed and pushed all solutions.
-
----
----
-
-## 🔗 Quick Links
-
-| 📂 DSA Practice |
-| :--- |
-| 📌 [Linked Lists](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/linkedlist) |
-| 📌 [Stacks & Queues](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/stackandqueue) |
-| 📌 [HashMaps](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/hashmapandhashfunctions) |
-| 📌 [Sorting Algorithms](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/sorting) |
-| 📌 [Linear & Binary Search](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/linearandbinarysearch) |
-| 📌 [Analysis](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/JavaDsaPractice/src/com/analysis) |
-
----
----
-
-# 📅 Week 4: Java Collections 
-## 📘 Section A : gcr-code-base
-
----
----
-
-## 📘 Section B : scenario-code-base
-
----
----
-
-## 📘 Section C : leet-code-base
