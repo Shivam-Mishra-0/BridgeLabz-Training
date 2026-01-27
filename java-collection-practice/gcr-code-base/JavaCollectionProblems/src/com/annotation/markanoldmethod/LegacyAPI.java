@@ -1,4 +1,4 @@
-package com.annotations.markanoldmethod;
+package com.annotation.markanoldmethod;
 
 public class LegacyAPI {
 
