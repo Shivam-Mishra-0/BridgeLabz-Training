@@ -1,4 +1,4 @@
-package com.annotations.repeatableannotation;
+package com.annotation.repeatableannotation;
 
 public class BugTracker {
 
