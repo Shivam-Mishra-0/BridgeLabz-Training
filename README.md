@@ -10,7 +10,7 @@
 
 ```
 
-## 🗓 Week 5 : Java I/O Streams
+## 🗓 Week 5 : Java I/O Streams 
 
 ## 📘 Section A : Training Learning Progress
 
