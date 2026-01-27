@@ -1,5 +1,6 @@
 package com.jtest.fileprocessor;
 
+
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThrows;
 import static org.junit.jupiter.api.Assertions.assertTrue;
@@ -27,7 +28,6 @@ public class FileProcessorTest {
         String readContent = FileProcessor.readFromFile(testFile);
         assertEquals(content, readContent, "Content read should match content written");
 
-     
         Files.deleteIfExists(Path.of(testFile));
     }
 
