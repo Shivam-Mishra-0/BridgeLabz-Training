@@ -1,4 +1,4 @@
-package com.annotations.supressuncheckedwarnings;
+package com.annotation.supressuncheckedwarnings;
 
 import java.util.ArrayList;
 
