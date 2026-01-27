@@ -32,17 +32,20 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 
 ##  Repository Branches
 
-### 🔹 [core-java-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice)
+### 🔹 [core-java-practice](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice)
 **Week 1** : Fundamentals of Java Programming
 
-### 🔹 [java-oops-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice)
+### 🔹 [java-oops-practice](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice)
 **Week 2** : Object-Oriented Programming
 
-### 🔹 [dsa-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice)
+### 🔹 [dsa-practice](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice)
 **Week 3** : Data Structures & Algorithms
 
-### 🔹 [java-collections-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice)
+### 🔹 [java-collections-practice](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collection-practice)
 **Week 4** : Collections Framework in Java
+
+### 🔹 [java-collections-practice](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-iostreams-practice)
+**Week 5** : I/O Streams in Java
 
 ---
 
@@ -226,51 +229,51 @@ BridgeLabz-Training/
 ## 🔗 Quick Links
 
 ### `core-java-practice` :
-- 📌 [Prerequisites](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-requisites)
-- 📌 [Control Flows](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
-- 📌 [Programming Elements](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
-- 📌 [Arrays](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
-- 📌 [Methods](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
-- 📌 [Strings](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
-- 📌 [Built-In Functions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
-- 📌 [LeetCode Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
-- 📌 [Scenario-Based Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+- 📌 [Prerequisites](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-requisites)
+- 📌 [Control Flows](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+- 📌 [Programming Elements](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+- 📌 [Arrays](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+- 📌 [Methods](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+- 📌 [Strings](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+- 📌 [Built-In Functions](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+- 📌 [LeetCode Solutions](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+- 📌 [Scenario-Based Solutions](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ### `java-oops-practice` :
-- 📌 [Classes and Objects](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
-- 📌 [Constructors ](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)
-- 📌 [this, final, static, instanceof](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/finalandstatic)
-- 📌 [Object Modeling & Relations](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
-- 📌 [Inheritance & Types](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
-- 📌 [Encapsulation & Polymorphism](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
-- 📌 [LeetCode Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/leet-code-codebase)
-- 📌 [Scenario-Based Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
+- 📌 [Classes and Objects](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+- 📌 [Constructors ](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)
+- 📌 [this, final, static, instanceof](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/finalandstatic)
+- 📌 [Object Modeling & Relations](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
+- 📌 [Inheritance & Types](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+- 📌 [Encapsulation & Polymorphism](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+- 📌 [LeetCode Solutions](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/leet-code-codebase)
+- 📌 [Scenario-Based Solutions](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
 
 ### `dsa-practice` :
-- 📌 [Linked Lists](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlists)
-- 📌 [Stacks](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/stacks)
-- 📌 [Queues](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/queues)
-- 📌 [HashMaps](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmaps)
-- 📌 [Sorting Algorithms](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
-- 📌 [Searching Algorithms, String & I/O utilities](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/searching)
-- 📌 [Time & Space Complexity Analysis](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/analysis)
-- 📌 [LeetCode Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/leet-code-codebase)
-- 📌 [Scenario-Based Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/ScenarioPracticeDSA/src/com)
+- 📌 [Linked Lists](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlists)
+- 📌 [Stacks](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/stacks)
+- 📌 [Queues](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/queues)
+- 📌 [HashMaps](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmaps)
+- 📌 [Sorting Algorithms](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
+- 📌 [Searching Algorithms, String & I/O utilities](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/searching)
+- 📌 [Time & Space Complexity Analysis](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/analysis)
+- 📌 [LeetCode Solutions](https://github.com/Abhishek-Puri-Goswami/Shivam-Mishra-0/tree/dsa-practice/leet-code-codebase)
+- 📌 [Scenario-Based Solutions](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/ScenarioPracticeDSA/src/com)
 
 ### `java-collections-practice` :
-- 📌 [Generics](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/generics)
-- 📌 [List Interface](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/listinterface)
-- 📌 [Set Interface](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/setinterface)
-- 📌 [Queue Interface](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/queueinterface)
-- 📌 [Map Interface](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/mapinterface)
-- 📌 [Example Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/examples)
-- 📌 [I/O Streams](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/streams)
-- 📌 [Exception Handling](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/exceptionhandling)
-- 📌 [Regex - Regular Expressions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/regex)
-- 📌 [JUnit Testing](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/junit)
-- 📌 [Reflection](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/reflection)
-- 📌 [Annotations](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/annotations)
-- 📌 [Scenario-Based Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/scenario-based-codebase/ScenarioPracticeCollections/src/com)
+- 📌 [Generics](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/generics)
+- 📌 [List Interface](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/listinterface)
+- 📌 [Set Interface](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/setinterface)
+- 📌 [Queue Interface](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/queueinterface)
+- 📌 [Map Interface](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/mapinterface)
+- 📌 [Example Problems](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/examples)
+- 📌 [I/O Streams](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/streams)
+- 📌 [Exception Handling](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/exceptionhandling)
+- 📌 [Regex - Regular Expressions](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/regex)
+- 📌 [JUnit Testing](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/junit)
+- 📌 [Reflection](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/reflection)
+- 📌 [Annotations](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/annotations)
+- 📌 [Scenario-Based Solutions](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-collections-practice/scenario-based-codebase/ScenarioPracticeCollections/src/com)
 
 ---
 
