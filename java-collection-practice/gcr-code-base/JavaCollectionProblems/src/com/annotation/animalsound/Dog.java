@@ -1,4 +1,4 @@
-package com.annotations.animalsound;
+package com.annotation.animalsound;
 
 public class Dog extends Animal{
 	
