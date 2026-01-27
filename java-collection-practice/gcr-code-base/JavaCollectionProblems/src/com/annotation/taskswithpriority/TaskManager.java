@@ -1,4 +1,4 @@
-package com.annotations.taskswithpriority;
+package com.annotation.taskswithpriority;
 
 public class TaskManager {
 
