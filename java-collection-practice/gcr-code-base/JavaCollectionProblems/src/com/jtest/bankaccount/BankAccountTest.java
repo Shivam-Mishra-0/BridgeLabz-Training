@@ -1,20 +1,23 @@
 package com.jtest.bankaccount;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+//import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThrows;
 
 import org.junit.Test;
 
 public class BankAccountTest {
 
-    @Test
+    //@SuppressWarnings("deprecation")
+	@Test
     public void testDeposit() {
         BankAccount account = new BankAccount(100);
         account.deposit(50);
         assertEquals(150, account.getBalance());
     }
 
-    @Test
+   // @SuppressWarnings("deprecation")
+	@Test
     public void testWithdraw() {
         BankAccount account = new BankAccount(200);
         account.withdraw(80);
