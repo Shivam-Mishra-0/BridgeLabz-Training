@@ -1,4 +1,4 @@
-package com.annotations.repeatableannotation;
+package com.annotation.repeatableannotation;
 
 import java.lang.reflect.Method;
 
