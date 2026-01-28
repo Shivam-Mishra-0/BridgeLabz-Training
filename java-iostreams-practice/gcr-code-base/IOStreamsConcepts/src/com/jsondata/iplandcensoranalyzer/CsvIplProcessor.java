@@ -1,4 +1,4 @@
-package com.jsondatahandling.iplandcensoranalyzer;
+package com.jsondata.iplandcensoranalyzer;
 
 import com.fasterxml.jackson.databind.*;
 import com.fasterxml.jackson.databind.node.ObjectNode;
@@ -16,7 +16,7 @@ public class CsvIplProcessor {
         MappingIterator<JsonNode> rows = csvMapper
                 .readerFor(JsonNode.class)
                 .with(schema)
-                .readValues(new File("src/com/jsondatahandling/resources/ipl.csv"));
+                .readValues(new File("src/com/jsondata/resources/ipl.csv"));
 
         List<JsonNode> list = rows.readAll();
 
