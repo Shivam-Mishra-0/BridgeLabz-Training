@@ -1,4 +1,4 @@
-package com.jsondatahandling.practiceproblems;
+package com.jsondata.practiceproblems;
 
 import java.util.*;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
@@ -35,7 +35,7 @@ public class ReadJSONFile {
 		try {
 			ObjectMapper objectMapper = new ObjectMapper();
 			
-			User user = objectMapper.readValue(new File("src/com/jsondatahandling/resources/user.json"), User.class);
+			User user = objectMapper.readValue(new File("src/com/jsondata/resources/user.json"), User.class);
 			
 			 System.out.println("User Name: " + user.getName());
 	         System.out.println("Skills: " + user.getSkills());
