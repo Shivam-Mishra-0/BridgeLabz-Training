@@ -1,4 +1,4 @@
-package com.jsondatahandling.practiceproblems;
+package com.jsondata.practiceproblems;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -16,11 +16,11 @@ public class ValidateJSON {
 
 		ObjectMapper objectMapper = new ObjectMapper();       
 
-		JsonNode schemaNode = objectMapper.readTree(new File("src/com/jsondatahandling/resources/schema.json"));
+		JsonNode schemaNode = objectMapper.readTree(new File("src/com/jsondata/resources/schema.json"));
         JsonSchemaFactory factory = JsonSchemaFactory.byDefault();
         JsonSchema schema = factory.getJsonSchema(schemaNode);      
 
-        JsonNode jsonData = objectMapper.readTree(new File("src/com/jsondatahandling/resources/user.json"));   
+        JsonNode jsonData = objectMapper.readTree(new File("src/com/jsondata/resources/user.json"));   
 
         if (schema.validate(jsonData).isSuccess()) {
             System.out.println("JSON is valid!");
