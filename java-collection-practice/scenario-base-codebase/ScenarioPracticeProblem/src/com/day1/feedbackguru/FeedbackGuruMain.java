@@ -1,4 +1,4 @@
-package com.feedbackguru;
+package com.day1.feedbackguru;
 
 public class FeedbackGuruMain {
 	public static void main(String[] args) {
