@@ -1,4 +1,4 @@
-package com.examresultuploader;
+package com.day2.examresultuploader;
 
 import java.io.IOException;
 
