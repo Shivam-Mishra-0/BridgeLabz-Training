@@ -1,4 +1,4 @@
-package com.chatlogparser;
+package com.day2.chatlogparser;
 
 public class ChatLogParserMain {
     public static void main(String[] args) {
