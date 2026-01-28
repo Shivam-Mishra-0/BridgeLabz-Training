@@ -1,4 +1,4 @@
-package com.resumeanalyzer;
+package com.day1.resumeanalyzer;
 
 public class InvalidFormatException extends Exception {
 	private static final long serialVersionUID = 1L;
