@@ -1,16 +1,16 @@
 {
   "id": 101,
-  "name": "Saurav Singh",
+  "name": "Shivam Mishra",
   "age": 24,
-  "email": "saurav@gmail.com",
+  "email": "shivammishra456331000@gmail.com",
   "skills": [
+    "C++",
     "Java",
-    "Spring Boot",
     "SQL",
-    "React"
+    "Linux"
   ],
   "address": {
-    "city": "Delhi",
-    "zip": "110001"
+    "city": "Bhopal",
+    "zip": "262002"
   }
 }
