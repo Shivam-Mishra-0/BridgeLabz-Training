@@ -1,4 +1,4 @@
-package com.chatlogparser;
+package com.day2.chatlogparser;
 
 import java.util.Arrays;
 import java.util.Set;
