@@ -1,9 +1,14 @@
-package com.jsondatahandling.handsonpracticeproblems;
+package com.jsondata.handsonpracticeproblems;
+
+import java.io.File;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.Statement;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.node.*;
-import java.sql.*;
-import java.io.File;
+import com.fasterxml.jackson.databind.node.ArrayNode;
+import com.fasterxml.jackson.databind.node.ObjectNode;
 
 public class DbToJsonReport {
     public static void main(String[] args) {
