@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "User",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "name": {
+      "type": "string"
+    },
+    "age": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "email": {
+      "type": "string",
+      "format": "email"
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "address": {
+      "type": "object",
+      "properties": {
+        "city": {
+          "type": "string"
+        },
+        "zip": {
+          "type": "string",
+          "pattern": "^[0-9]{6}$"
+        }
+      },
+      "required": ["city", "zip"]
+    }
+  },
+  "required": ["id", "name", "age", "email", "skills", "address"],
+  "additionalProperties": false
+}
