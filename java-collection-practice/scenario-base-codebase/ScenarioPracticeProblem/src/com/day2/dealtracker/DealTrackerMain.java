@@ -1,4 +1,4 @@
-package com.dealtracker;
+package com.day2.dealtracker;
 
 public class DealTrackerMain {
     public static void main(String[] args) {
