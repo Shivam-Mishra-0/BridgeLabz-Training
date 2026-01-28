@@ -1,4 +1,4 @@
-package com.jsondatahandling.handsonpracticeproblems;
+package com.jsondata.handsonpracticeproblems;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -12,8 +12,8 @@ public class JsonFilesMerge {
         try {
             ObjectMapper mapper = new ObjectMapper();
 
-            JsonNode json1 = mapper.readTree(new File("src/com/jsondatahandling/resources/file1.json"));
-            JsonNode json2 = mapper.readTree(new File("src/com/jsondatahandling/resources/file2.json"));
+            JsonNode json1 = mapper.readTree(new File("src/com/jsondata/resources/file1.json"));
+            JsonNode json2 = mapper.readTree(new File("src/com/jsondata/resources/file2.json"));
 
             ObjectNode merged = mapper.createObjectNode();
 
