@@ -1,4 +1,4 @@
-package com.jsondatahandling.practiceproblems;
+package com.jsondata.practiceproblems;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -15,7 +15,7 @@ public class Student {
 		subjects.put("dsa");
 		subjects.put("coa");
 	
-		jsonobject.put("name", "saurav");
+		jsonobject.put("name", "Shivam");
 		jsonobject.put("age", 24);
 		jsonobject.put("subjects", subjects);
 		
