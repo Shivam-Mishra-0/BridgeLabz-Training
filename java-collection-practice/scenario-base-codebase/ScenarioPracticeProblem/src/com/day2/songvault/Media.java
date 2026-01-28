@@ -1,4 +1,4 @@
-package com.songvault;
+package com.day2.songvault;
 
 public interface Media {
 	String getTitle();
