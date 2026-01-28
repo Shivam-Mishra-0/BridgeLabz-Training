@@ -1,0 +1,29 @@
+
+package com.day3.eventtracker;
+
+import java.io.FileWriter;
+import java.util.List;
+
+import com.day3.eventtracker.model.AuditEvent;
+import com.day3.eventtracker.service.UserService;
+
+public class EventTrackerApp {
+	public static void main(String[] args) {
+		EventTracker tracker = new EventTracker();
+		tracker.scanClass(UserService.class);
+		List<AuditEvent> events = tracker.getEvents();
+
+		try {
+			Gson gson = new GsonBuilder().setPrettyPrinting().create();
+			FileWriter writer = new FileWriter("samplefiles/eventtracker/audit_log.json");
+			gson.toJson(events, writer);
+
+			writer.flush();
+			writer.close();
+			System.out.println("Audit log generated successfully.");
+			
+		} catch (Exception e) {
+			System.out.println("Error: " + e.getMessage());
+		}
+	}
+}
