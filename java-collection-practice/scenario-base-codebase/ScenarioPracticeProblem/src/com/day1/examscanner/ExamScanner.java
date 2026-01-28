@@ -1,4 +1,4 @@
-package com.examscanner;
+package com.day1.examscanner;
 
 import java.io.*;
 import java.util.*;
