@@ -1,4 +1,4 @@
-package com.dealtracker;
+package com.day2.dealtracker;
 
 import java.io.*;
 import java.time.LocalDate;
