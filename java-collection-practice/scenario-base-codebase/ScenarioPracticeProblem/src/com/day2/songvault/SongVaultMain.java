@@ -1,4 +1,4 @@
-package com.songvault;
+package com.day2.songvault;
 
 public class SongVaultMain {
     public static void main(String[] args) {
