@@ -1,4 +1,4 @@
-package com.jsondatahandling.practiceproblems;
+package com.jsondata.practiceproblems;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
