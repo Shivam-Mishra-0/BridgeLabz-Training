@@ -1,4 +1,4 @@
-package com.jsondatahandling.practiceproblems;
+package com.jsondata.practiceproblems;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -9,7 +9,7 @@ public class ParseJSON {
         try {
             ObjectMapper objectMapper = new ObjectMapper();
 
-            JsonNode rootNode = objectMapper.readTree(new File("src/com/jsondatahandling/resources/userparse.json"));
+            JsonNode rootNode = objectMapper.readTree(new File("src/com/jsondata/resources/userparse.json"));
 
             for (JsonNode jsonNode : rootNode) {
 
