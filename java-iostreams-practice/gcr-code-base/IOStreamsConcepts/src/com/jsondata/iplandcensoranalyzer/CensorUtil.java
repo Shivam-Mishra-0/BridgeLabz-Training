@@ -1,4 +1,4 @@
-package com.jsondatahandling.iplandcensoranalyzer;
+package com.jsondata.iplandcensoranalyzer;
 
 public class CensorUtil {
 
