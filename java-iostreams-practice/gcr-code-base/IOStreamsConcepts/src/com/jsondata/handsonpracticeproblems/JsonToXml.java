@@ -1,4 +1,4 @@
-package com.jsondatahandling.handsonpracticeproblems;
+package com.jsondata.handsonpracticeproblems;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
