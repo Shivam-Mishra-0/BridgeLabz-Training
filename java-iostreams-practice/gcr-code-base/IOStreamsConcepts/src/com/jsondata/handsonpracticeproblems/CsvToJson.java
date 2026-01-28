@@ -1,9 +1,13 @@
-package com.jsondatahandling.handsonpracticeproblems;
+package com.jsondata.handsonpracticeproblems;
 
-import com.fasterxml.jackson.dataformat.csv.*;
-import com.fasterxml.jackson.databind.*;
 import java.io.File;
 import java.util.List;
+
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.MappingIterator;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.dataformat.csv.CsvMapper;
+import com.fasterxml.jackson.dataformat.csv.CsvSchema;
 
 public class CsvToJson {
     public static void main(String[] args) {
@@ -16,7 +20,7 @@ public class CsvToJson {
             MappingIterator<JsonNode> rows = csvMapper
                     .readerFor(JsonNode.class)
                     .with(schema)
-                    .readValues(new File("src/com/jsondatahandling/resources/users.csv"));
+                    .readValues(new File("src/com/jsondata/resources/users.csv"));
 
             List<JsonNode> list = rows.readAll();
 
