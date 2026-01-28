@@ -1,4 +1,4 @@
-package com.resumeanalyzer;
+package com.day1.resumeanalyzer;
 
 import java.io.*;
 import java.util.*;
