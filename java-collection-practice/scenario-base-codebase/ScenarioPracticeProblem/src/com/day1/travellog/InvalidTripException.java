@@ -1,4 +1,4 @@
-package com.travellog;
+package com.day1.travellog;
 
 public class InvalidTripException extends Exception {
 	private static final long serialVersionUID = 1L;
