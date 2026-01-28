@@ -1,4 +1,4 @@
-package com.coderepocleaner;
+package com.day1.coderepocleaner;
 
 import java.io.IOException;
 
