@@ -1,4 +1,4 @@
-package com.medinventory;
+package com.day2.medinventory;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
