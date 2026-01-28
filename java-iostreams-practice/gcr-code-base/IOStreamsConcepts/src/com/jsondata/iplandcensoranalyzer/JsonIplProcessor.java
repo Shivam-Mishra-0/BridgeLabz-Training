@@ -1,4 +1,4 @@
-package com.jsondatahandling.iplandcensoranalyzer;
+package com.jsondata.iplandcensoranalyzer;
 
 import com.fasterxml.jackson.databind.*;
 import com.fasterxml.jackson.databind.node.*;
@@ -11,7 +11,7 @@ public class JsonIplProcessor {
     public static void processJson(String input, String output) throws Exception {
 
         ObjectMapper mapper = new ObjectMapper();
-        ArrayNode matches = (ArrayNode) mapper.readTree(new File("src/com/jsondatahandling/resources/ipl.json"));
+        ArrayNode matches = (ArrayNode) mapper.readTree(new File("src/com/jsondata/resources/ipl.json"));
 
         for (JsonNode match : matches) {
 
