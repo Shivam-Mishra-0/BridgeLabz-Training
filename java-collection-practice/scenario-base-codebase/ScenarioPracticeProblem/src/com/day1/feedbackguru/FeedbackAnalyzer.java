@@ -1,4 +1,4 @@
-package com.feedbackguru;
+package com.day1.feedbackguru;
 
 import java.io.*;
 import java.util.*;
