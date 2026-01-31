@@ -11,7 +11,7 @@
 
 ```
 
-## 🗓 Week 6 : Java8 Programming  
+## 🗓 Week 6 : Java8 Programming   
 
 ## 📘 Section A : Training Learning Progress
 
