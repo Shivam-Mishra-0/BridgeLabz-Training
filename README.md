@@ -20,7 +20,7 @@
 
 ```
  
-# BridgeLabz Training Journey   
+# BridgeLabz Training Journey    
 
 > A comprehensive Java programming training repository covering Core Java fundamentals to Object-Oriented Programming concepts.
 
