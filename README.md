@@ -30,7 +30,7 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 
 ---
 
-##  Repository Branches
+##  Repository Branches 
 
 ### 🔹 [core-java-practice](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/core-java-practice)
 **Week 1** : Fundamentals of Java Programming
