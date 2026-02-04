@@ -47,6 +47,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java-collections-practice](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-iostreams-practice)
 **Week 5** : I/O Streams in Java
 
+### 🔹 [java-collections-practice](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-design-pattern-practice)
+**Week ** : Design Patterns in Java
+
 ---
 
 ## 📂 Project Structure
