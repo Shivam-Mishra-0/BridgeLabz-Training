@@ -50,6 +50,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java-design-pattern-practice](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-design-pattern-practice)
 **Week ** : Design Patterns in Java
 
+### 🔹 [dbms-jdbc-practice](https://github.com/Shivam-Mishra-0/BridgeLabz-Training/tree/java-design-pattern-practice)
+**Week ** : DBMS & JDBC 
+
 ---
 
 ## 📂 Project Structure
