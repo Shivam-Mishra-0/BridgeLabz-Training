@@ -18,7 +18,7 @@
                                      __/ |
                                     |___/                        
 
-```
+``` 
  
 # BridgeLabz Training Journey     
 
