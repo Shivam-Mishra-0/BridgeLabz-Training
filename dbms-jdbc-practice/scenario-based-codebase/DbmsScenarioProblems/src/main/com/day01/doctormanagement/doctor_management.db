@@ -5,65 +5,107 @@
 -- Database: practice_db
 -- ============================================================
 
+
+-- MYSQL>
+SHOW DATABASES;
+
+
+/* O/P
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| practice_db        |
+| sakila             |
+| sys                |
+| world              |
++--------------------+
+*/
+
+
 -- mysql>
 USE practice_db;
+
 
 /* o/p
 Database changed
 */
 
+
+
 -- mysql>
 -- Disable FK Checks Temporarily
 SET FOREIGN_KEY_CHECKS = 0;
 
+
+
 /* o/p
 Query OK, 0 rows affected (0.00 sec)
 */
+
+
 
 -- mysql>
 DROP TABLE IF EXISTS appointments;
 
+
+
 /* o/p
 Query OK, 0 rows affected (0.00 sec)
 */
+
+
 
 -- mysql>
 DROP TABLE IF EXISTS doctor_schedule;
 
+
 /* o/p
 Query OK, 0 rows affected (0.00 sec)
 */
+
 
 -- mysql>
 DROP TABLE IF EXISTS doctors;
 
+
 /* o/p
 Query OK, 0 rows affected (0.00 sec)
 */
+
 
 -- mysql>
 DROP TABLE IF EXISTS specialties;
 
+
 /* o/p
 Query OK, 0 rows affected (0.00 sec)
 */
+
 
 /*
 Note: When tables have foreign keys, always drop child tables before parent tables, 
 	or temporarily disable foreign key checks using SET FOREIGN_KEY_CHECKS = 0.
 */
+
+
 -- mysql>
 SET FOREIGN_KEY_CHECKS = 1;
+
 
 /* o/p
 Query OK, 0 rows affected (0.00 sec)
 */
+
 
 -- mysql>
 CREATE TABLE specialties (
 specialty_id INT PRIMARY KEY AUTO_INCREMENT,
 specialty_name VARCHAR(60) UNIQUE NOT NULL
 );
+
 
 /* o/p
 Query OK, 0 rows affected (0.02 sec)
@@ -80,9 +122,11 @@ is_active BOOLEAN DEFAULT TRUE,
 FOREIGN KEY (specialty_id) REFERENCES specialties(specialty_id)
 );
 
+
 /* o/p
 Query OK, 0 rows affected (0.02 sec)
 */
+
 
 -- mysql>
 CREATE TABLE doctor_schedule (
@@ -93,9 +137,11 @@ time_slot VARCHAR(30),
 FOREIGN KEY (doctor_id) REFERENCES doctors(doctor_id)
 );
 
+
 /* o/p
 Query OK, 0 rows affected (0.01 sec)
 */
+
 
 -- mysql>
 CREATE TABLE appointments (
@@ -105,12 +151,15 @@ appointment_date DATE NOT NULL,
 FOREIGN KEY (doctor_id) REFERENCES doctors(doctor_id)
 );
 
+
 /* o/p
 Query OK, 0 rows affected (0.01 sec)
 */
 
+
 -- mysql>
 DESC specialties;
+
 
 /* o/p
 +---------------+-------------+------+-----+---------+----------------+
@@ -121,8 +170,10 @@ DESC specialties;
 +---------------+-------------+------+-----+---------+----------------+
 */
 
+
 -- mysql>
 DESC doctors;
+
 
 /* o/p
 +------------------+-------------+------+-----+---------+----------------+
