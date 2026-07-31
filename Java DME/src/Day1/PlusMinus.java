@@ -39,6 +39,6 @@ public class PlusMinus {
 
         System.out.println(positiveF);
         System.out.println(negativeF);
-        System.out.println(zerof);
+        System.out.println(zeroF);
     }
 }
